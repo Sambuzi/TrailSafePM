@@ -12,11 +12,11 @@ Le informazioni sui sentieri sono oggi distribuite su canali diversi e non sempr
 
 Anche la gestione delle segnalazioni e poco strutturata. Gli utenti possono comunicare problemi in modi diversi, ma l'ente non dispone di un processo digitale unico per raccogliere, valutare e aggiornare lo stato delle segnalazioni.
 
-## Opportunita
+## Opportunità
 
 La realizzazione di TrailSafe consente di:
 
-- centralizzare le informazioni sui sentieri;
+- centralizzare le informazioni sui sentieri presenti nel db;
 - migliorare la prevenzione dei rischi per gli escursionisti;
 - supportare l'ente nella gestione operativa dei percorsi;
 - raccogliere segnalazioni in modo piu ordinato;
