@@ -1,2 +1,0 @@
-# Piano dei costi
-

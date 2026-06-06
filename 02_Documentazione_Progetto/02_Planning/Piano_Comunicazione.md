@@ -1,2 +1,0 @@
-# Piano di comunicazione
-

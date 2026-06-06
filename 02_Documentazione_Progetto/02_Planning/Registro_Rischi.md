@@ -1,2 +1,0 @@
-# Registro dei rischi
-

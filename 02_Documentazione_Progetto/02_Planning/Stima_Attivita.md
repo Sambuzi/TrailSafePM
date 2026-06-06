@@ -1,2 +1,0 @@
-# Stima delle attivita
-

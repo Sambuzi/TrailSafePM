@@ -1,2 +1,0 @@
-# Elenco dei requisiti
-
