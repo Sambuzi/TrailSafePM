@@ -1,2 +1,0 @@
-# Registro delle decisioni
-
