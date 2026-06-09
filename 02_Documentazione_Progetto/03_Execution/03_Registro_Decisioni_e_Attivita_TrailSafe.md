@@ -9,6 +9,8 @@ Il registro viene aggiornato dopo le riunioni di progetto o quando viene presa u
 ---
 
 ## 2. Registro
+In questa sezione del registro, i codici che iniziano con D identificano le decisioni prese durante il progetto, mentre quelli che iniziano con A indicano le attività operative da svolgere.
+La numerazione serve a distinguere e rintracciare facilmente ogni elemento, ad esempio D01 per la prima decisione e A01 per la prima attività.
 
 | ID | Data | Decisione / Attività | Motivazione | Responsabile | Scadenza | Stato |
 |---|---|---|---|---|---|---|
