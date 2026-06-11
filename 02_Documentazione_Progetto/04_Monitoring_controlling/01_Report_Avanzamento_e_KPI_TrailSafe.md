@@ -2,6 +2,8 @@
 
 ## 1. Informazioni generali
 
+In questo file verranno analizzate lo stato delle varie attività del progetto e il KPI.
+
 | Voce | Valore |
 |---|---|
 | Progetto | TrailSafe |
