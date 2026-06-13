@@ -1,2 +1,0 @@
-# Verbale della riunione finale
-
