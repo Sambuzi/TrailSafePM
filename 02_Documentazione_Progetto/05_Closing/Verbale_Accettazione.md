@@ -1,2 +1,0 @@
-# Verbale di accettazione
-
