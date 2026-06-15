@@ -291,12 +291,10 @@ La documentazione del progetto è organizzata nelle seguenti cartelle:
 
 ## 9. Considerazioni finali
 
-La gestione di TrailSafe è stata impostata cercando di mantenere equilibrio tra controllo e flessibilità.
+Con questo elaborato ho cercato di rappresentare la gestione di TrailSafe in modo semplice ma completo, seguendo tutte le fasi principali di un progetto.
 
-La pianificazione iniziale consente di definire obiettivi, responsabilità e limiti. Il lavoro per iterazioni permette invece di affrontare i problemi e modificare le priorità senza perdere il controllo generale.
+La scelta dell'approccio ibrido mi è sembrata la più adatta, perché permette di avere una pianificazione iniziale chiara, ma lascia anche un po' di flessibilità durante lo sviluppo delle funzionalità. In un progetto come questo, infatti, alcune cose devono essere definite fin dall'inizio, come tempi, costi, responsabilità e obiettivi, mentre altre possono cambiare dopo i primi confronti con utenti e committente.
 
-La scelta di produrre pochi documenti, accorpando contenuti collegati, rende l’elaborato più ordinato e riduce le ripetizioni.
+Un aspetto importante emerso durante la simulazione è il controllo dello scope. Aggiungere nuove funzioni può sembrare utile, ma rischia facilmente di aumentare tempi, costi e complessità. Per questo TrailSafe è stato impostato come MVP, concentrandosi prima sulle funzioni davvero necessarie per avere una versione iniziale utilizzabile.
 
-L’aspetto più importante emerso dalla simulazione è la necessità di mantenere lo scope sotto controllo. In un progetto software è facile aggiungere nuove funzioni, ma ogni modifica può incidere su tempi, costi e rischi.
-
-Per questo motivo il progetto è stato gestito come MVP, concentrandosi sulle funzionalità necessarie per ottenere una prima versione utilizzabile e rimandando gli ampliamenti a una fase successiva.
+Nel complesso, il lavoro mi ha permesso di capire meglio quanto sia importante organizzare un progetto prima di passare alla parte operativa. Anche se TrailSafe è una simulazione, la documentazione prodotta aiuta a vedere in modo più concreto come un'idea iniziale possa essere trasformata in un progetto pianificato, controllato e concluso.

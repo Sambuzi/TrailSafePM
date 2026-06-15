@@ -195,6 +195,8 @@ La simulazione si conclude con l'accettazione dell'MVP e la chiusura formale del
 
 ---
 
-## Nota
+## Conclusione
 
-Tutti i dati relativi a durata, budget, team, committente, area geografica e stato di avanzamento sono definiti a scopo didattico e fanno parte della simulazione di Project Management.
+Questo lavoro raccoglie tutta la simulazione del progetto TrailSafe, dall'idea iniziale fino alla chiusura.
+
+I dati su tempi, budget, team e committente sono ipotetici, ma sono stati pensati per rendere il progetto il piu possibile realistico e coerente con un caso di Project Management.
