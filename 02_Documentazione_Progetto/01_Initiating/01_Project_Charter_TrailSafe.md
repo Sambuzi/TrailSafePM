@@ -17,50 +17,47 @@
 
 ## 2. Contesto
 
-Le informazioni relative ai sentieri escursionistici sono spesso distribuite tra siti diversi e non sempre vengono aggiornate in modo tempestivo.
+Chi organizza un'escursione ha spesso bisogno di raccogliere informazioni da fonti diverse: sito dell'ente parco, pagine turistiche, previsioni meteo, comunicazioni locali o segnalazioni informali di altri utenti. Il problema non è solo trovare le informazioni, ma capire se siano aggiornate e affidabili.
 
-Questa situazione può rendere difficile per gli escursionisti conoscere in anticipo lo stato reale di un percorso, le condizioni meteorologiche, eventuali chiusure o la presenza di ostacoli e situazioni di pericolo.
+Nel caso dei sentieri, questo aspetto è particolarmente importante. Un percorso può essere temporaneamente chiuso, danneggiato, poco praticabile dopo il maltempo o interessato da ostacoli non ancora riportati nei canali ufficiali. Per un escursionista, non conoscere queste condizioni in anticipo può rendere più difficile pianificare l'uscita in modo consapevole.
 
-Il progetto TrailSafe nasce con l’obiettivo di raccogliere queste informazioni in un’unica piattaforma web, facile da consultare sia prima sia durante la pianificazione di un’escursione.
+TrailSafe nasce quindi come progetto per raccogliere in un unico punto le informazioni essenziali sui sentieri di un'area pilota. L'idea non è sostituire tutti gli strumenti già esistenti, ma offrire una piattaforma semplice, consultabile da browser, che aiuti sia gli utenti finali sia chi gestisce i percorsi.
 
 ---
 
 ## 3. Obiettivo del progetto
 
-L’obiettivo è pianificare e gestire la realizzazione di una prima versione funzionante di TrailSafe, destinata inizialmente a un’area geografica pilota.
+L'obiettivo del progetto è realizzare e validare una prima versione funzionante di TrailSafe, limitata inizialmente a un'area geografica pilota. La versione prevista è un MVP, quindi una piattaforma con le funzioni principali necessarie per dimostrare il valore del servizio senza estendere troppo l'ambito iniziale.
 
-La piattaforma dovrà permettere agli escursionisti di consultare i sentieri, visualizzarne le caratteristiche principali, controllare le condizioni ambientali e inviare segnalazioni.
+La piattaforma dovrà permettere agli escursionisti di consultare l'elenco dei sentieri, visualizzarli su mappa, leggere le informazioni principali del percorso e controllare eventuali avvisi o condizioni ambientali. Gli utenti registrati potranno anche salvare percorsi e inviare segnalazioni su ostacoli, problemi o situazioni di rischio.
 
-Dovrà inoltre essere presente un’area amministrativa per la gestione dei sentieri, degli avvisi e delle segnalazioni ricevute.
+Accanto alla parte pubblica sarà prevista un'area amministrativa, utile al personale incaricato per aggiornare i contenuti, gestire le segnalazioni ricevute e pubblicare avvisi o chiusure.
 
 ---
 
 ## 4. Motivazione del progetto
 
-Il progetto intende rispondere alla necessità di avere uno strumento unico e aggiornato per la consultazione delle informazioni relative ai sentieri.
+Il progetto risponde alla necessità di rendere più ordinata e accessibile la comunicazione sui sentieri. In uno scenario reale, un ente parco deve spesso gestire dati tecnici, aggiornamenti operativi e richieste degli utenti con strumenti non sempre integrati tra loro.
 
-I principali benefici attesi sono:
+Una piattaforma come TrailSafe può portare benefici concreti: gli escursionisti avrebbero un punto di riferimento più chiaro prima di partire, mentre l'ente gestore potrebbe centralizzare aggiornamenti, segnalazioni e avvisi. Anche la collaborazione con associazioni o referenti locali diventerebbe più semplice, perché le informazioni potrebbero essere raccolte e verificate in modo più strutturato.
 
-- maggiore accessibilità alle informazioni;
-- migliore pianificazione delle escursioni;
-- maggiore consapevolezza dei rischi;
-- comunicazione più rapida tra gestori dei sentieri ed escursionisti;
-- gestione centralizzata di segnalazioni, chiusure e avvisi.
+Dal punto di vista del progetto, la scelta di partire con un MVP consente di contenere tempi e costi e di verificare prima l'utilità della soluzione su un numero limitato di sentieri.
 
 ---
 
 ## 5. Obiettivi specifici
 
-Il progetto dovrà:
+Gli obiettivi operativi della prima versione sono i seguenti:
 
-1. realizzare una piattaforma web accessibile da browser;
-2. permettere la visualizzazione dei sentieri su una mappa interattiva;
-3. mostrare informazioni come difficoltà, lunghezza, durata e stato del percorso;
-4. integrare dati meteorologici aggiornati;
-5. permettere agli utenti di registrarsi e salvare i percorsi preferiti;
-6. consentire l’invio di segnalazioni relative a ostacoli o situazioni di pericolo;
-7. fornire agli amministratori strumenti per gestire sentieri, segnalazioni e avvisi;
-8. completare e validare una versione MVP entro i tempi e il budget stabiliti.
+1. realizzare una piattaforma web accessibile da browser desktop e mobile;
+2. mostrare l'elenco dei sentieri disponibili nell'area pilota;
+3. visualizzare i percorsi su una mappa interattiva;
+4. fornire per ogni sentiero informazioni come difficoltà, lunghezza, durata stimata e stato del percorso;
+5. integrare informazioni meteorologiche o ambientali utili alla pianificazione;
+6. permettere agli utenti registrati di salvare i percorsi preferiti;
+7. consentire l'invio di segnalazioni relative a ostacoli o situazioni di pericolo;
+8. mettere a disposizione degli amministratori strumenti per gestire sentieri, segnalazioni, avvisi e chiusure;
+9. consegnare una versione MVP entro i limiti di tempo e budget definiti.
 
 ---
 
@@ -68,44 +65,26 @@ Il progetto dovrà:
 
 ### 6.1 Attività comprese
 
-Il progetto comprende:
+Il progetto comprende tutte le attività necessarie per arrivare alla consegna della versione pilota: raccolta e analisi dei requisiti, progettazione dell'esperienza utente, realizzazione dell'interfaccia, sviluppo frontend e backend, integrazione con servizi esterni, test, rilascio e documentazione finale.
 
-- raccolta e analisi dei requisiti;
-- definizione dell’esperienza utente;
-- progettazione dell’interfaccia;
-- sviluppo del frontend;
-- sviluppo del backend;
-- gestione degli utenti;
-- visualizzazione dei sentieri su mappa;
-- integrazione con un servizio meteorologico;
-- gestione delle segnalazioni;
-- sviluppo dell’area amministrativa;
-- test funzionali e di usabilità;
-- rilascio della versione pilota;
-- formazione iniziale degli amministratori;
-- produzione della documentazione di progetto.
+Rientrano inoltre nel progetto la formazione iniziale degli amministratori e la predisposizione di un manuale sintetico, in modo che l'ente committente possa utilizzare la piattaforma dopo la consegna.
+
+In termini funzionali, l'MVP comprende la gestione utenti, la consultazione dei sentieri, la mappa, le schede dei percorsi, le informazioni meteo, il sistema di segnalazione e l'area amministrativa.
 
 ### 6.2 Attività escluse
 
-Non sono comprese:
+Per mantenere il progetto realistico e compatibile con la durata prevista, alcune funzionalità restano fuori dall'MVP. Non sono quindi previste applicazioni mobili native, copertura nazionale, localizzazione continua degli utenti, gestione diretta delle emergenze o integrazione con centrali operative di soccorso.
 
-- applicazioni mobili native;
-- copertura dell’intero territorio nazionale;
-- localizzazione continua degli utenti;
-- gestione diretta delle emergenze;
-- integrazione con centrali operative di soccorso;
-- acquisto o installazione di dispositivi fisici sui sentieri;
-- manutenzione pluriennale successiva alla chiusura del progetto;
-- gestione di pagamenti o servizi commerciali.
+Sono esclusi anche dispositivi fisici installati sui sentieri, servizi di pagamento, funzionalità commerciali e manutenzione pluriennale successiva alla chiusura del progetto. Questi aspetti potranno essere valutati in una fase successiva, ma non fanno parte dell'obiettivo iniziale.
 
 ---
 
 ## 7. Deliverable principali
 
-I principali risultati attesi sono:
+Alla fine del progetto sono attesi i seguenti deliverable:
 
-1. documentazione dei requisiti;
-2. prototipo dell’interfaccia;
+1. documento dei requisiti;
+2. prototipo dell'interfaccia;
 3. piattaforma web MVP;
 4. modulo di gestione utenti;
 5. mappa interattiva dei sentieri;
@@ -123,32 +102,22 @@ I principali risultati attesi sono:
 
 | Stakeholder | Interesse principale |
 |---|---|
-| Ente committente | Migliorare l’accesso alle informazioni sui sentieri |
-| Project Manager | Raggiungere gli obiettivi rispettando tempi, costi e qualità |
-| Team di sviluppo | Realizzare la soluzione prevista |
-| Amministratori della piattaforma | Gestire contenuti, segnalazioni e avvisi |
-| Escursionisti | Consultare informazioni aggiornate e affidabili |
-| Gestori dei sentieri | Comunicare lo stato dei percorsi |
-| Servizi meteo e cartografici | Fornire dati esterni alla piattaforma |
-| Associazioni escursionistiche | Collaborare alla raccolta e verifica delle informazioni |
+| Ente committente | Avere uno strumento più efficace per comunicare informazioni sui sentieri |
+| Project Manager | Coordinare il progetto e mantenere sotto controllo tempi, costi, qualità e rischi |
+| Team di sviluppo | Realizzare la soluzione tecnica prevista dall'MVP |
+| Amministratori della piattaforma | Aggiornare contenuti, segnalazioni, avvisi e chiusure |
+| Escursionisti | Consultare informazioni chiare, aggiornate e facili da raggiungere |
+| Gestori dei sentieri | Comunicare variazioni, problemi o limitazioni sui percorsi |
+| Servizi meteo e cartografici | Fornire dati esterni utilizzati dalla piattaforma |
+| Associazioni escursionistiche | Supportare la raccolta e la verifica delle informazioni sul territorio |
 
 ---
 
 ## 9. Approccio di gestione
 
-Il progetto utilizzerà un approccio ibrido.
+Per TrailSafe viene adottato un approccio ibrido. La parte iniziale del progetto richiede una pianificazione abbastanza chiara, perché devono essere definiti ambito, budget, responsabilità, milestone, rischi e criteri di accettazione. Questi elementi servono a mantenere il progetto controllabile e a evitare che l'MVP diventi troppo ampio.
 
-La pianificazione generale seguirà un’impostazione tradizionale per quanto riguarda:
-
-- obiettivi;
-- ambito;
-- milestone;
-- budget;
-- rischi;
-- responsabilità;
-- criteri di accettazione.
-
-Lo sviluppo delle funzionalità sarà invece organizzato in iterazioni brevi, con verifiche periodiche e possibilità di modificare le priorità in base ai risultati e alle indicazioni del committente.
+La realizzazione delle funzionalità sarà invece organizzata in iterazioni. Questo permette di procedere per blocchi di lavoro, verificare periodicamente l'avanzamento e adattare alcune priorità in base ai riscontri del committente. L'approccio scelto cerca quindi di bilanciare controllo e flessibilità: il progetto mantiene una direzione precisa, ma lascia spazio a piccoli aggiustamenti durante l'esecuzione.
 
 ---
 
@@ -156,43 +125,36 @@ Lo sviluppo delle funzionalità sarà invece organizzato in iterazioni brevi, co
 
 | Milestone | Risultato atteso |
 |---|---|
-| Approvazione del progetto | Autorizzazione all’avvio |
+| Approvazione del progetto | Autorizzazione all'avvio |
 | Approvazione dei requisiti | Requisiti condivisi con il committente |
 | Approvazione del prototipo | Interfaccia validata |
 | Prima versione interna | Funzionalità principali integrate |
 | Fine dei test | Requisiti principali verificati |
 | Rilascio pilota | MVP disponibile |
 | Accettazione finale | Approvazione del committente |
-| Chiusura | Consegna e lesson learned |
+| Chiusura | Consegna finale e raccolta delle lesson learned |
 
-Le date saranno definite durante la pianificazione temporale e inserite nel diagramma di Gantt.
+Le date di dettaglio sono riportate nella pianificazione temporale e nel diagramma di Gantt. In questo documento le milestone hanno lo scopo di indicare i principali passaggi decisionali del progetto.
 
 ---
 
 ## 11. Vincoli
 
-I principali vincoli sono:
+Il progetto deve rimanere entro una durata indicativa di circa cinque mesi e un budget massimo di 75.000 euro. Questi due vincoli rendono necessario limitare l'ambito alla sola versione MVP e rimandare eventuali evoluzioni a una fase successiva.
 
-- durata limitata del progetto;
-- budget prestabilito;
-- disponibilità dei dati sui sentieri;
-- dipendenza da servizi esterni per mappe e meteo;
-- rispetto della normativa sulla protezione dei dati;
-- disponibilità limitata degli stakeholder;
-- necessità di mantenere il progetto entro i confini di un MVP.
+Un altro vincolo importante riguarda la disponibilità dei dati sui sentieri. La qualità della piattaforma dipende anche dalla completezza e dall'aggiornamento delle informazioni fornite dal committente o dai referenti territoriali.
+
+Il progetto dipende inoltre da servizi esterni per mappe e meteo. Eventuali problemi tecnici o limitazioni di questi servizi dovranno essere gestiti durante lo sviluppo. Resta infine necessario rispettare la normativa sulla protezione dei dati, soprattutto per quanto riguarda utenti registrati e segnalazioni.
 
 ---
 
 ## 12. Assunzioni
 
-Si assume che:
+La pianificazione si basa su alcune assunzioni iniziali. Si considera che il committente possa fornire un primo insieme di dati sui sentieri e che sia disponibile almeno un referente per chiarire dubbi, validare requisiti e verificare i contenuti.
 
-- il committente fornisca i dati iniziali relativi ai sentieri;
-- siano disponibili API per mappe e informazioni meteorologiche;
-- gli amministratori partecipino alla validazione dei requisiti;
-- il team disponga delle competenze tecniche necessarie;
-- la versione iniziale sia limitata a una sola area pilota;
-- gli utenti dispongano di una connessione Internet per utilizzare la piattaforma.
+Si assume inoltre che esistano servizi utilizzabili per mappe e informazioni meteorologiche, e che il team disponga delle competenze tecniche necessarie per integrarli nella piattaforma. La fase pilota viene considerata limitata a circa 20-30 sentieri, così da mantenere gestibile sia il caricamento iniziale dei dati sia la validazione finale.
+
+Infine, si dà per scontato che gli utenti utilizzino TrailSafe tramite connessione Internet e browser, senza richiedere per questa prima versione funzionalità offline o applicazioni native.
 
 ---
 
@@ -200,54 +162,39 @@ Si assume che:
 
 | Rischio | Possibile effetto |
 |---|---|
-| Dati sui sentieri incompleti o non aggiornati | Informazioni poco affidabili |
-| Problemi con servizi meteo o cartografici | Malfunzionamenti di alcune funzionalità |
-| Aumento non controllato dei requisiti | Ritardi e aumento dei costi |
-| Bassa partecipazione degli stakeholder | Requisiti non adeguati |
-| Segnalazioni degli utenti non attendibili | Diffusione di informazioni errate |
+| Dati sui sentieri incompleti o non aggiornati | Informazioni poco affidabili per gli utenti |
+| Problemi con servizi meteo o cartografici | Ritardi o malfunzionamenti di alcune funzionalità |
+| Aumento non controllato dei requisiti | Allungamento dei tempi e incremento dei costi |
+| Bassa partecipazione degli stakeholder | Requisiti meno precisi o validazioni più lente |
+| Segnalazioni degli utenti non attendibili | Pubblicazione di informazioni errate se non verificate |
 | Problemi di privacy o sicurezza | Rischi legali e reputazionali |
-| Sottostima delle attività tecniche | Ritardo nel rilascio |
+| Sottostima delle attività tecniche | Ritardo nel rilascio dell'MVP |
 
-I rischi saranno successivamente approfonditi nel registro dei rischi.
+Questi rischi saranno ripresi e approfonditi nel registro dei rischi, dove verranno indicati priorità, responsabilità e azioni di mitigazione.
 
 ---
 
 ## 14. Criteri di successo
 
-Il progetto sarà considerato concluso con successo se:
+Il progetto potrà essere considerato concluso positivamente se, al termine delle attività, la versione MVP sarà disponibile e utilizzabile nell'area pilota. In particolare, gli utenti dovranno riuscire a consultare i sentieri, visualizzare le informazioni principali, accedere alla mappa e inviare segnalazioni.
 
-- l’MVP viene completato entro i tempi concordati;
-- le principali funzionalità previste risultano operative;
-- gli amministratori riescono a gestire sentieri, segnalazioni e avvisi;
-- gli utenti riescono a consultare i percorsi e inviare segnalazioni;
-- i test principali vengono superati;
-- il committente approva il rilascio pilota;
-- gli scostamenti di tempo e costo rimangono entro le soglie stabilite;
-- la documentazione finale viene completata e consegnata.
+Dal lato amministrativo, la piattaforma dovrà consentire la gestione dei sentieri, degli avvisi e delle segnalazioni ricevute. I requisiti ad alta priorità dovranno essere completati e i test principali dovranno avere esito positivo.
+
+Saranno considerati elementi di successo anche il rispetto del budget massimo, il mantenimento della durata prevista e l'approvazione finale da parte del committente. La documentazione di progetto dovrà essere completata e archiviata insieme al report di chiusura.
 
 ---
 
 ## 15. Autorità del Project Manager
 
-Il Project Manager è responsabile di:
+Il Project Manager ha il compito di coordinare le attività, aggiornare la pianificazione, assegnare il lavoro al team e monitorare l'andamento complessivo del progetto. Rientrano nelle sue responsabilità anche la gestione delle riunioni, la comunicazione con il committente, il controllo di tempi, costi, qualità e rischi, e la predisposizione della documentazione di chiusura.
 
-- coordinare le attività;
-- aggiornare la pianificazione;
-- assegnare e controllare le attività;
-- organizzare le riunioni;
-- monitorare tempi, costi, qualità e rischi;
-- gestire la comunicazione con il committente;
-- valutare le richieste di modifica;
-- proporre azioni correttive;
-- predisporre la documentazione di chiusura.
-
-Le modifiche rilevanti relative a budget, durata o ambito dovranno essere approvate dal committente.
+Il Project Manager può proporre azioni correttive e valutare le richieste di modifica. Le modifiche minori potranno essere gestite operativamente, mentre quelle che incidono in modo significativo su budget, durata o ambito dovranno essere approvate dal committente o dallo sponsor.
 
 ---
 
 ## 16. Approvazione
 
-L’approvazione del presente documento autorizza l’avvio formale del progetto e il passaggio alla fase di pianificazione dettagliata.
+L'approvazione del presente Project Charter autorizza l'avvio formale del progetto TrailSafe e il passaggio alla pianificazione dettagliata. Con questa approvazione vengono confermati l'obiettivo generale, il perimetro iniziale dell'MVP, i principali vincoli e il ruolo del Project Manager.
 
 | Ruolo | Nome | Firma | Data |
 |---|---|---|---|
