@@ -31,7 +31,7 @@ La numerazione serve a distinguere e rintracciare facilmente ogni elemento, ad e
 | A07 | 22/01/2027 | Preparare l’ambiente di rilascio | Rendere disponibile la versione pilota | Team tecnico | 25/01/2027 | Completata |
 | A08 | 22/01/2027 | Completare il manuale amministratori | Supportare l’uso della piattaforma | Business Analyst | 25/01/2027 | Completata |
 | A09 | 22/01/2027 | Svolgere la formazione | Preparare gli amministratori all’utilizzo | Project Manager | 27/01/2027 | Completata |
-| A10 | 22/01/2027 | Preparare il verbale di accettazione | Formalizzare la consegna | Project Manager | 28/01/2027 | In corso |
+| A10 | 22/01/2027 | Preparare il verbale di accettazione | Formalizzare la consegna | Project Manager | 28/01/2027 | Completata |
 
 ---
 

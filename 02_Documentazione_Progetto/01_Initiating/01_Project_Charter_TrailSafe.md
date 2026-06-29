@@ -9,7 +9,7 @@
 | **Tipologia** | Progetto di sviluppo software |
 | **Committente** | Ente territoriale / Ente Parco (scenario simulato) |
 | **Project Manager** | [Nome e cognome] |
-| **Data di avvio prevista** | Da definire |
+| **Data di avvio prevista** | 07/09/2026 |
 | **Durata prevista** | Circa 5 mesi |
 | **Versione del documento** | 1.0 |
 
