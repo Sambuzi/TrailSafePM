@@ -1,70 +1,72 @@
-# Scope e Requisiti – TrailSafe
+# Scope e requisiti - TrailSafe
 
 ## 1. Scopo del documento
 
-Questo documento definisce l’ambito del progetto TrailSafe e raccoglie i requisiti principali della versione MVP.
+Questo documento raccoglie lo scope del progetto TrailSafe e i requisiti previsti per la prima versione operativa, cioè l'MVP.
 
-L’obiettivo è chiarire cosa deve essere realizzato, cosa resta escluso e quali condizioni dovranno essere rispettate per considerare il progetto completato.
+Serve a fissare in modo chiaro cosa verrà realizzato, cosa resta fuori da questa fase e quali condizioni dovranno essere soddisfatte per considerare concluso il lavoro.
 
 ---
 
 ## 2. Obiettivo del progetto
 
-Realizzare una piattaforma web per la consultazione dei sentieri escursionistici, inizialmente limitata a un’area geografica pilota.
+TrailSafe nasce come piattaforma web per consultare sentieri escursionistici in un'area pilota. La prima versione non punta quindi a coprire tutto il territorio, ma a validare il servizio su un numero limitato di percorsi.
 
-La piattaforma dovrà permettere agli utenti di consultare i percorsi, visualizzare informazioni ambientali, ricevere avvisi e inviare segnalazioni. Gli amministratori dovranno poter gestire sentieri, avvisi e segnalazioni.
+Gli utenti dovranno poter cercare e consultare i sentieri, vedere le informazioni principali, controllare meteo e condizioni del percorso, ricevere eventuali avvisi e inviare segnalazioni. Gli amministratori, invece, avranno a disposizione un'area dedicata per aggiornare sentieri, avvisi e segnalazioni ricevute.
 
 ---
 
 ## 3. Ambito incluso
 
-Il progetto comprende:
+Rientrano nello scope dell'MVP:
 
-- raccolta e definizione dei requisiti;
-- progettazione dell’interfaccia;
+- raccolta, revisione e conferma dei requisiti;
+- progettazione dell'interfaccia utente;
 - sviluppo della piattaforma web;
-- registrazione e accesso degli utenti;
-- mappa interattiva dei sentieri;
-- schede informative dei percorsi;
-- visualizzazione di meteo e condizioni del sentiero;
+- registrazione, accesso e gestione base degli utenti;
+- mappa interattiva con i sentieri dell'area pilota;
+- schede dei percorsi con le informazioni essenziali;
+- visualizzazione di meteo e stato del sentiero;
 - salvataggio dei percorsi preferiti;
-- invio di segnalazioni;
+- invio di segnalazioni da parte degli utenti;
 - area amministrativa;
 - gestione di sentieri, segnalazioni e avvisi;
-- test e rilascio della versione pilota;
-- documentazione e breve formazione per gli amministratori.
+- test della piattaforma e rilascio della versione pilota;
+- documentazione finale e breve formazione per gli amministratori.
 
 ---
 
 ## 4. Ambito escluso
 
-Non fanno parte dell’MVP:
+Non sono previsti in questa fase:
 
 - applicazioni mobili native;
-- localizzazione continua degli utenti;
-- gestione diretta delle emergenze;
-- collegamento con centrali di soccorso;
-- copertura dell’intero territorio nazionale;
-- funzioni di pagamento;
-- dispositivi fisici installati sui sentieri;
-- manutenzione pluriennale successiva al progetto.
+- tracciamento continuo della posizione degli utenti;
+- gestione diretta di emergenze o richieste di soccorso;
+- integrazione con centrali operative o servizi di pronto intervento;
+- copertura dell'intero territorio nazionale;
+- pagamenti o servizi a pagamento;
+- sensori, beacon o altri dispositivi fisici installati sui sentieri;
+- manutenzione pluriennale dopo la chiusura del progetto.
 
 ---
 
 ## 5. Deliverable principali
 
-1. Documento dei requisiti.
-2. Prototipo dell’interfaccia.
-3. Piattaforma web MVP.
-4. Mappa interattiva.
-5. Modulo di gestione utenti.
-6. Modulo di gestione sentieri.
-7. Modulo meteo e stato dei percorsi.
-8. Sistema di segnalazione.
-9. Area amministrativa.
-10. Piano e risultati dei test.
-11. Manuale sintetico per gli amministratori.
-12. Documentazione finale di progetto.
+I deliverable attesi sono:
+
+1. documento dei requisiti;
+2. prototipo dell'interfaccia;
+3. piattaforma web MVP;
+4. mappa interattiva dei sentieri;
+5. modulo di gestione utenti;
+6. modulo di gestione sentieri;
+7. modulo meteo e stato dei percorsi;
+8. sistema di segnalazione;
+9. area amministrativa;
+10. piano di test e risultati;
+11. manuale sintetico per gli amministratori;
+12. documentazione finale di progetto.
 
 ---
 
@@ -72,18 +74,18 @@ Non fanno parte dell’MVP:
 
 | ID | Requisito | Priorità |
 |---|---|---|
-| RF01 | L’utente deve poter consultare l’elenco dei sentieri | Alta |
-| RF02 | L’utente deve poter visualizzare i sentieri su una mappa | Alta |
-| RF03 | Ogni sentiero deve avere una scheda con difficoltà, durata, lunghezza e stato | Alta |
-| RF04 | La piattaforma deve mostrare informazioni meteorologiche | Alta |
-| RF05 | L’utente deve potersi registrare e accedere | Alta |
-| RF06 | L’utente registrato deve poter salvare i sentieri preferiti | Media |
-| RF07 | L’utente deve poter inviare una segnalazione | Alta |
-| RF08 | L’amministratore deve poter creare, modificare e rimuovere un sentiero | Alta |
-| RF09 | L’amministratore deve poter verificare e gestire le segnalazioni | Alta |
-| RF10 | L’amministratore deve poter pubblicare avvisi e chiusure | Alta |
-| RF11 | La piattaforma deve mostrare punti di interesse | Media |
-| RF12 | Il sistema deve notificare aggiornamenti importanti sui sentieri salvati | Media |
+| RF01 | L'utente può consultare l'elenco dei sentieri disponibili | Alta |
+| RF02 | L'utente può visualizzare i sentieri su una mappa interattiva | Alta |
+| RF03 | Ogni sentiero ha una scheda con difficoltà, durata, lunghezza e stato aggiornato | Alta |
+| RF04 | La piattaforma mostra le informazioni meteorologiche relative all'area del percorso | Alta |
+| RF05 | L'utente può registrarsi ed effettuare l'accesso | Alta |
+| RF06 | L'utente registrato può salvare i sentieri preferiti | Media |
+| RF07 | L'utente può inviare una segnalazione su un sentiero | Alta |
+| RF08 | L'amministratore può creare, modificare e rimuovere un sentiero | Alta |
+| RF09 | L'amministratore può verificare e gestire le segnalazioni ricevute | Alta |
+| RF10 | L'amministratore può pubblicare avvisi, chiusure o aggiornamenti sullo stato dei percorsi | Alta |
+| RF11 | La piattaforma può mostrare punti di interesse collegati ai sentieri | Media |
+| RF12 | Il sistema può avvisare l'utente in caso di aggiornamenti importanti sui sentieri salvati | Media |
 
 ---
 
@@ -91,14 +93,14 @@ Non fanno parte dell’MVP:
 
 | ID | Requisito | Priorità |
 |---|---|---|
-| RNF01 | La piattaforma deve essere utilizzabile da browser desktop e mobile | Alta |
-| RNF02 | L’interfaccia deve essere semplice e comprensibile | Alta |
+| RNF01 | La piattaforma deve funzionare correttamente da browser desktop e mobile | Alta |
+| RNF02 | L'interfaccia deve essere semplice da usare anche per utenti non tecnici | Alta |
 | RNF03 | Le pagine principali devono caricarsi in tempi accettabili | Alta |
-| RNF04 | I dati degli utenti devono essere protetti | Alta |
-| RNF05 | Solo gli amministratori autorizzati devono accedere all’area di gestione | Alta |
-| RNF06 | Le segnalazioni devono essere verificate prima della pubblicazione | Alta |
-| RNF07 | Il sistema deve gestire eventuali errori dei servizi esterni | Media |
-| RNF08 | La soluzione deve poter essere estesa ad altre aree geografiche | Media |
+| RNF04 | I dati degli utenti devono essere gestiti in modo sicuro | Alta |
+| RNF05 | L'area di gestione deve essere accessibile solo agli amministratori autorizzati | Alta |
+| RNF06 | Le segnalazioni devono essere controllate prima di essere rese visibili o utilizzate come aggiornamento ufficiale | Alta |
+| RNF07 | Il sistema deve gestire eventuali errori dei servizi esterni, come mappe o meteo | Media |
+| RNF08 | La soluzione deve poter essere estesa in futuro ad altre aree geografiche | Media |
 
 ---
 
@@ -108,41 +110,41 @@ Non fanno parte dell’MVP:
 
 - durata prevista di circa 5 mesi;
 - budget massimo indicativo di 75.000 euro;
-- utilizzo di servizi esterni per mappe e meteo;
-- realizzazione limitata a una versione MVP;
-- rispetto della normativa sulla protezione dei dati.
+- utilizzo di servizi esterni per mappe e dati meteo;
+- rilascio limitato a una versione MVP;
+- rispetto della normativa sulla protezione dei dati personali.
 
 ### Assunzioni
 
 - il committente fornirà i dati iniziali dei sentieri;
-- sarà disponibile un referente dell’ente;
-- il team avrà le competenze necessarie;
-- la fase pilota comprenderà circa 20–30 sentieri;
-- gli amministratori parteciperanno alla verifica delle funzionalità.
+- sarà disponibile un referente dell'ente per verifiche e chiarimenti;
+- il team avrà accesso alle competenze tecniche necessarie;
+- la fase pilota comprenderà circa 20-30 sentieri;
+- gli amministratori parteciperanno alla verifica delle funzionalità prima del rilascio.
 
 ---
 
 ## 9. Criteri di accettazione
 
-Il progetto sarà considerato accettato quando:
+Il progetto potrà essere considerato accettato quando:
 
-- gli utenti potranno consultare i sentieri e le relative informazioni;
-- la mappa mostrerà correttamente i percorsi pilota;
-- i dati meteorologici saranno visualizzati;
+- gli utenti riusciranno a consultare i sentieri e le relative informazioni;
+- la mappa mostrerà correttamente i percorsi inclusi nella fase pilota;
+- i dati meteorologici saranno visibili nelle sezioni previste;
 - gli utenti registrati potranno salvare percorsi e inviare segnalazioni;
 - gli amministratori potranno gestire sentieri, avvisi e segnalazioni;
 - i requisiti ad alta priorità saranno completati;
-- i test principali saranno superati;
+- i test principali saranno stati eseguiti con esito positivo;
 - il committente approverà la versione pilota.
 
 ---
 
 ## 10. Gestione delle modifiche allo scope
 
-Qualsiasi richiesta che modifichi funzionalità, tempi o costi dovrà essere:
+Eventuali richieste che modificano funzionalità, tempi o costi non verranno inserite automaticamente nel progetto. Prima dovranno essere:
 
-1. registrata;
-2. valutata dal Project Manager;
-3. analizzata per impatto su tempi, costi e rischi;
-4. approvata o rifiutata dal committente;
-5. riportata nei documenti di progetto.
+1. registrate;
+2. valutate dal Project Manager;
+3. analizzate rispetto a tempi, costi e rischi;
+4. approvate o rifiutate dal committente;
+5. riportate nei documenti di progetto, se approvate.
