@@ -1,37 +1,51 @@
-# Report di Avanzamento e KPI – TrailSafe
+# Report di avanzamento e KPI - TrailSafe
 
 ## 1. Informazioni generali
 
-In questo file verranno analizzate lo stato delle varie attività del progetto e il KPI.
+Questo report fotografa lo stato del progetto TrailSafe alla data del 20/11/2026. Il periodo considerato va dal kick-off fino alla riunione di avanzamento di novembre.
+
+Il documento serve a verificare se il progetto sta procedendo secondo il piano, quali scostamenti sono emersi e quali azioni devono essere seguite prima del prossimo controllo. I KPI non vengono letti solo come numeri, ma come segnali utili per capire dove intervenire.
 
 | Voce | Valore |
 |---|---|
 | Progetto | TrailSafe |
 | Data del report | 20/11/2026 |
-| Periodo considerato | 07/09/2026 – 20/11/2026 |
+| Periodo considerato | 07/09/2026 - 20/11/2026 |
 | Responsabile | Project Manager |
 | Stato generale | In linea, con lieve ritardo tecnico |
 
 ---
 
-## 2. Stato delle attività
+## 2. Sintesi dello stato attuale
 
-| Area | Stato | Nota |
-|---|---|---|
-| Avvio del progetto | Completato | Kick-off svolto |
-| Raccolta requisiti | Completata | Requisiti approvati |
-| Progettazione UX/UI | Completata | Prototipo validato |
-| Progettazione tecnica | Completata | Struttura definita |
-| Area utenti | Quasi completata | Restano correzioni minori |
-| Mappa e sentieri | In corso | Avanzamento regolare |
-| Integrazione meteo | In ritardo | Problema con API esterna |
-| Segnalazioni | In corso | Sviluppo avviato |
-| Area amministrativa | Da avviare | Prevista nella fase successiva |
-| Test | Da avviare | Previsti dopo l’integrazione dei moduli |
+Nel complesso il progetto sta procedendo in modo regolare. Le attività di avvio, analisi e progettazione sono state completate, mentre lo sviluppo delle funzionalità principali è in corso.
+
+Il punto da monitorare con più attenzione riguarda l'integrazione del servizio meteo, che ha richiesto più tempo del previsto a causa di alcune difficoltà con l'API esterna. Il ritardo è ancora contenuto e, al momento, non modifica la data finale prevista per il rilascio pilota.
+
+Lo scope dell'MVP rimane invariato. Alcune funzionalità a priorità media potranno però essere rinviate se il ritardo tecnico dovesse aumentare.
 
 ---
 
-## 3. KPI principali
+## 3. Stato delle attività
+
+| Area | Stato | Nota |
+|---|---|---|
+| Avvio del progetto | Completato | Kick-off svolto e modalità di lavoro confermate |
+| Raccolta requisiti | Completata | Requisiti principali approvati dal committente |
+| Progettazione UX/UI | Completata | Prototipo validato prima dello sviluppo completo |
+| Progettazione tecnica | Completata | Struttura applicativa e integrazioni principali definite |
+| Area utenti | Quasi completata | Restano correzioni minori su profilo e accesso |
+| Mappa e sentieri | In corso | Avanzamento regolare, con alcuni dati ancora da verificare |
+| Integrazione meteo | In ritardo | Problemi tecnici con API esterna e gestione errori |
+| Segnalazioni | In corso | Sviluppo avviato, test previsti dopo integrazione dei moduli |
+| Area amministrativa | Da avviare | Prevista nella fase successiva del piano iterativo |
+| Test | Da avviare | Test completi previsti dopo l'integrazione delle funzioni principali |
+
+---
+
+## 4. KPI principali
+
+I KPI mostrano uno stato complessivamente controllato. Lo scostamento più evidente riguarda l'avanzamento delle attività e il numero di problemi aperti, entrambi collegati soprattutto all'integrazione meteo.
 
 | Indicatore | Valore previsto | Valore attuale | Stato |
 |---|---:|---:|---|
@@ -42,47 +56,54 @@ In questo file verranno analizzate lo stato delle varie attività del progetto e
 | Rischi aperti | 5 | 5 | In linea |
 | Problemi aperti | 2 | 3 | Sopra la previsione |
 
----
-
-## 4. Scostamenti rilevati
-
-Il principale scostamento riguarda l’integrazione del servizio meteo.
-
-Il ritardo stimato è di circa 4 giorni ed è dovuto a difficoltà tecniche nell’utilizzo dell’API scelta.
-
-Al momento non è previsto un impatto sulla data finale del progetto.
-
-I costi risultano leggermente inferiori rispetto a quanto pianificato.
+Il budget risulta leggermente inferiore al previsto, ma questo dato non va interpretato come margine disponibile automatico. Prima di usare eventuali risorse residue sarà necessario verificare l'impatto su tempi, qualità e priorità dell'MVP.
 
 ---
 
-## 5. Problemi aperti
+## 5. Scostamenti rilevati
+
+Il principale scostamento riguarda l'integrazione del servizio meteo. Il ritardo stimato è di circa 4 giorni ed è dovuto a difficoltà tecniche nell'uso dell'API scelta, in particolare nella gestione delle risposte lente o non disponibili.
+
+Al momento il ritardo non compromette la data finale del progetto, ma richiede un controllo ravvicinato nella prossima riunione di avanzamento. Se il problema dovesse proseguire, sarà necessario valutare un servizio alternativo o ridurre temporaneamente alcune funzioni a priorità media.
+
+Un secondo punto riguarda la qualità dei dati dei sentieri. Alcune informazioni risultano incomplete e dovranno essere confermate dal referente del committente prima dei test di integrazione.
+
+I costi sono sotto controllo e non emergono, alla data del report, superamenti del budget pianificato.
+
+---
+
+## 6. Problemi aperti
 
 | ID | Problema | Impatto | Responsabile | Stato |
 |---|---|---|---|---|
-| P01 | Risposta lenta del servizio meteo | Medio | Backend Developer | In lavorazione |
+| P01 | Risposta lenta o non stabile del servizio meteo | Medio | Backend Developer | In lavorazione |
 | P02 | Alcuni dati dei sentieri sono incompleti | Medio | Referente committente | In lavorazione |
-| P03 | Visualizzazione mappa non ottimale su mobile | Basso | Frontend Developer | Aperto |
+| P03 | Visualizzazione della mappa non ottimale su mobile | Basso | Frontend Developer | Aperto |
+
+I problemi P01 e P02 hanno priorità maggiore perché possono incidere sui test di integrazione e sulla qualità della versione pilota. Il problema P03 è da correggere, ma al momento non blocca l'avanzamento delle attività principali.
 
 ---
 
-## 6. Azioni correttive
+## 7. Azioni correttive
 
-Sono state definite le seguenti azioni:
+Sono state definite le seguenti azioni correttive:
 
-- dare priorità all’integrazione del servizio meteo;
-- valutare un servizio alternativo in caso di ulteriori problemi;
-- completare la verifica dei dati dei sentieri;
-- rimandare alcune funzioni a priorità media;
-- aggiornare il Gantt;
-- verificare nuovamente lo stato del progetto nella riunione successiva.
+- dare priorità al completamento dell'integrazione meteo;
+- verificare la possibilità di usare un servizio alternativo se l'API attuale continua a creare problemi;
+- completare la verifica dei dati dei sentieri con il referente del committente;
+- rimandare alcune funzionalità a priorità media se necessario;
+- aggiornare il Gantt con il ritardo tecnico rilevato;
+- preparare i test di integrazione sulle parti già stabili;
+- ricontrollare KPI, rischi e problemi aperti nella prossima riunione di avanzamento.
+
+Le azioni saranno seguite dal Project Manager e aggiornate nel registro decisioni e attività, quando producono nuove assegnazioni o modifiche al piano.
 
 ---
 
-## 7. Valutazione generale
+## 8. Valutazione generale
 
-Il progetto procede in modo regolare.
+Il progetto rimane sotto controllo. Il ritardo tecnico è contenuto e può essere recuperato senza modificare la data finale, a condizione che l'integrazione meteo venga stabilizzata entro la prossima finestra di lavoro.
 
-Il ritardo tecnico è contenuto e può essere recuperato senza modificare la data finale, purché non emergano nuovi problemi.
+La priorità per le prossime settimane sarà completare le funzionalità essenziali dell'MVP, evitare l'espansione dello scope e preparare i test di integrazione. Budget e requisiti ad alta priorità risultano ancora in linea con il piano.
 
-Lo scope dell’MVP rimane invariato e il budget è sotto controllo.
+La valutazione complessiva è quindi positiva, con una raccomandazione: monitorare da vicino i servizi esterni e la qualità dei dati dei sentieri, perché sono i due elementi che potrebbero avere l'impatto maggiore sul rilascio pilota.
