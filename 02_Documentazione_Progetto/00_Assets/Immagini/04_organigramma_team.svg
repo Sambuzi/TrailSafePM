@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="760" viewBox="0 0 1100 760" role="img" aria-labelledby="title desc">
+  <title id="title">Organigramma del team TrailSafe</title>
+  <desc id="desc">Schema dei ruoli principali del progetto TrailSafe e dei flussi di coordinamento.</desc>
+  <defs>
+    <style>
+      .bg{fill:#f7faf7}.title{font:700 34px Arial,sans-serif;fill:#183026}.sub{font:400 18px Arial,sans-serif;fill:#476157}.box{fill:#fff;stroke:#94b9a5;stroke-width:2}.primary{fill:#1f6f4a;stroke:#1f6f4a}.h{font:700 18px Arial,sans-serif;fill:#183026}.white{font:700 20px Arial,sans-serif;fill:#fff}.t{font:400 14px Arial,sans-serif;fill:#45554d}.line{stroke:#7ea891;stroke-width:3;fill:none}.dash{stroke:#7ea891;stroke-width:3;fill:none;stroke-dasharray:8 8}
+    </style>
+  </defs>
+  <rect class="bg" width="1100" height="760"/>
+  <text class="title" x="70" y="70">Organizzazione del team</text>
+  <text class="sub" x="70" y="102">Ruoli coinvolti nella gestione, nello sviluppo e nella validazione dell'MVP TrailSafe.</text>
+
+  <rect class="primary" x="410" y="135" width="280" height="80" rx="14"/>
+  <text class="white" x="550" y="168" text-anchor="middle">Sponsor / Committente</text>
+  <text class="t" x="550" y="195" text-anchor="middle" fill="#eaf4ef">approva obiettivi e modifiche</text>
+
+  <rect class="box" x="410" y="285" width="280" height="85" rx="14"/>
+  <text class="h" x="550" y="320" text-anchor="middle">Project Manager</text>
+  <text class="t" x="550" y="346" text-anchor="middle">coordina tempi, costi, rischi</text>
+
+  <path class="line" d="M550 215 V285"/>
+  <path class="line" d="M550 370 V430"/>
+  <path class="line" d="M250 430 H850"/>
+  <path class="line" d="M250 430 V475"/><path class="line" d="M450 430 V475"/><path class="line" d="M650 430 V475"/><path class="line" d="M850 430 V475"/>
+
+  <rect class="box" x="120" y="475" width="260" height="95" rx="14"/>
+  <text class="h" x="250" y="512" text-anchor="middle">Business Analyst</text>
+  <text class="t" x="250" y="540" text-anchor="middle">requisiti e validazione</text>
+
+  <rect class="box" x="400" y="475" width="260" height="95" rx="14"/>
+  <text class="h" x="530" y="512" text-anchor="middle">UX/UI Designer</text>
+  <text class="t" x="530" y="540" text-anchor="middle">prototipo e usabilità</text>
+
+  <rect class="box" x="680" y="475" width="260" height="95" rx="14"/>
+  <text class="h" x="810" y="512" text-anchor="middle">Team tecnico</text>
+  <text class="t" x="810" y="540" text-anchor="middle">frontend, backend, integrazioni</text>
+
+  <rect class="box" x="230" y="630" width="260" height="80" rx="14"/>
+  <text class="h" x="360" y="662" text-anchor="middle">Tester</text>
+  <text class="t" x="360" y="688" text-anchor="middle">verifica funzionalità e problemi</text>
+
+  <rect class="box" x="610" y="630" width="260" height="80" rx="14"/>
+  <text class="h" x="740" y="662" text-anchor="middle">Referente admin</text>
+  <text class="t" x="740" y="688" text-anchor="middle">flussi gestionali e contenuti</text>
+
+  <path class="dash" d="M360 630 V570"/><path class="dash" d="M740 630 V570"/>
+  <text class="sub" x="550" y="250" text-anchor="middle">decisioni principali</text>
+  <text class="sub" x="550" y="405" text-anchor="middle">coordinamento operativo</text>
+</svg>

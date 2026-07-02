@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820" role="img" aria-labelledby="title desc">
+  <title id="title">Schema generale MVP TrailSafe</title>
+  <desc id="desc">Diagramma delle principali aree funzionali della piattaforma TrailSafe MVP.</desc>
+  <defs>
+    <style>
+      .bg{fill:#f7faf7}.title{font:700 34px Arial,sans-serif;fill:#183026}.subtitle{font:400 18px Arial,sans-serif;fill:#476157}.box{fill:#fff;stroke:#8fb7a3;stroke-width:2}.core{fill:#1f6f4a}.coreText{font:700 26px Arial,sans-serif;fill:#fff}.h{font:700 20px Arial,sans-serif;fill:#183026}.t{font:400 16px Arial,sans-serif;fill:#3d5149}.line{stroke:#7ba994;stroke-width:3;fill:none;stroke-linecap:round;stroke-linejoin:round}.pill{fill:#e5f1eb;stroke:#9abda9;stroke-width:1.5}.small{font:700 14px Arial,sans-serif;fill:#28523d}.section{font:700 13px Arial,sans-serif;fill:#4f735f;letter-spacing:.5px}
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="820"/>
+  <text class="title" x="70" y="72">TrailSafe - perimetro MVP</text>
+  <text class="subtitle" x="70" y="105">Prima versione web per consultare sentieri, informazioni operative e segnalazioni in un'area pilota.</text>
+
+  <rect class="core" x="420" y="335" width="360" height="155" rx="20"/>
+  <text class="coreText" x="600" y="400" text-anchor="middle">Piattaforma web</text>
+  <text class="coreText" x="600" y="438" text-anchor="middle">TrailSafe MVP</text>
+
+  <path class="line" d="M420 412 H310"/>
+  <path class="line" d="M780 412 H890"/>
+  <path class="line" d="M500 335 V280 H360"/>
+  <path class="line" d="M700 335 V280 H840"/>
+  <path class="line" d="M500 490 V550 H360"/>
+  <path class="line" d="M700 490 V550 H840"/>
+
+  <rect class="box" x="70" y="320" width="240" height="185" rx="14"/>
+  <text class="section" x="95" y="352">FRONT OFFICE</text>
+  <text class="h" x="190" y="385" text-anchor="middle">Utenti</text>
+  <text class="t" x="98" y="425">• registrazione e accesso</text>
+  <text class="t" x="98" y="455">• consultazione sentieri</text>
+  <text class="t" x="98" y="485">• preferiti e segnalazioni</text>
+
+  <rect class="box" x="890" y="320" width="240" height="185" rx="14"/>
+  <text class="section" x="915" y="352">BACK OFFICE</text>
+  <text class="h" x="1010" y="385" text-anchor="middle">Amministratori</text>
+  <text class="t" x="918" y="425">• gestione sentieri</text>
+  <text class="t" x="918" y="455">• verifica segnalazioni</text>
+  <text class="t" x="918" y="485">• avvisi e chiusure</text>
+
+  <rect class="box" x="230" y="165" width="260" height="115" rx="14"/>
+  <text class="section" x="260" y="196">CONTENUTI</text>
+  <text class="h" x="360" y="229" text-anchor="middle">Mappa e sentieri</text>
+  <text class="t" x="265" y="258">Percorsi, schede e stato</text>
+
+  <rect class="box" x="710" y="165" width="260" height="115" rx="14"/>
+  <text class="section" x="740" y="196">SERVIZI ESTERNI</text>
+  <text class="h" x="840" y="229" text-anchor="middle">Meteo</text>
+  <text class="t" x="752" y="258">Dati esterni e condizioni</text>
+
+  <rect class="box" x="230" y="550" width="260" height="125" rx="14"/>
+  <text class="section" x="260" y="582">INPUT UTENTI</text>
+  <text class="h" x="360" y="616" text-anchor="middle">Segnalazioni</text>
+  <text class="t" x="268" y="647">Invio, verifica e stato</text>
+
+  <rect class="box" x="710" y="550" width="260" height="125" rx="14"/>
+  <text class="section" x="740" y="582">CONSEGNA</text>
+  <text class="h" x="840" y="616" text-anchor="middle">Documentazione</text>
+  <text class="t" x="750" y="647">Manuale e progetto finale</text>
+
+  <rect class="pill" x="70" y="725" width="1060" height="48" rx="24"/>
+  <text class="small" x="600" y="755" text-anchor="middle">Fuori MVP: app mobile nativa, soccorso diretto, sensori fisici, copertura nazionale e pagamenti</text>
+</svg>

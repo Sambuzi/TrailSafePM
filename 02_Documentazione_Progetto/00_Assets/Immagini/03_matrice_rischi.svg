@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="760" viewBox="0 0 1000 760" role="img" aria-labelledby="title desc">
+  <title id="title">Matrice rischi TrailSafe</title>
+  <desc id="desc">Matrice probabilità impatto con i principali rischi del progetto TrailSafe.</desc>
+  <defs>
+    <style>
+      .bg{fill:#fbfbf8}.title{font:700 34px Arial,sans-serif;fill:#202820}.sub{font:400 18px Arial,sans-serif;fill:#59645b}.axis{font:700 18px Arial,sans-serif;fill:#29382f}.lbl{font:700 16px Arial,sans-serif;fill:#29382f}.cellText{font:700 18px Arial,sans-serif;fill:#263229}.risk{fill:#1f6f4a}.riskText{font:700 14px Arial,sans-serif;fill:#fff}.legend{font:400 15px Arial,sans-serif;fill:#46544b}
+    </style>
+  </defs>
+  <rect class="bg" width="1000" height="760"/>
+  <text class="title" x="70" y="70">Matrice dei rischi</text>
+  <text class="sub" x="70" y="102">Priorità calcolata combinando probabilità e impatto su scala 1-3.</text>
+
+  <g transform="translate(190 160)">
+    <rect x="0" y="0" width="180" height="150" fill="#e6f2df" stroke="#fff" stroke-width="4"/>
+    <rect x="180" y="0" width="180" height="150" fill="#f3efd0" stroke="#fff" stroke-width="4"/>
+    <rect x="360" y="0" width="180" height="150" fill="#f2c7b8" stroke="#fff" stroke-width="4"/>
+    <rect x="0" y="150" width="180" height="150" fill="#d9ecd7" stroke="#fff" stroke-width="4"/>
+    <rect x="180" y="150" width="180" height="150" fill="#efe3aa" stroke="#fff" stroke-width="4"/>
+    <rect x="360" y="150" width="180" height="150" fill="#eaa58f" stroke="#fff" stroke-width="4"/>
+    <rect x="0" y="300" width="180" height="150" fill="#c9e5ca" stroke="#fff" stroke-width="4"/>
+    <rect x="180" y="300" width="180" height="150" fill="#e5cc73" stroke="#fff" stroke-width="4"/>
+    <rect x="360" y="300" width="180" height="150" fill="#d96f57" stroke="#fff" stroke-width="4"/>
+
+    <text class="cellText" x="90" y="82" text-anchor="middle">1</text><text class="cellText" x="270" y="82" text-anchor="middle">2</text><text class="cellText" x="450" y="82" text-anchor="middle">3</text>
+    <text class="cellText" x="90" y="232" text-anchor="middle">2</text><text class="cellText" x="270" y="232" text-anchor="middle">4</text><text class="cellText" x="450" y="232" text-anchor="middle">6</text>
+    <text class="cellText" x="90" y="382" text-anchor="middle">3</text><text class="cellText" x="270" y="382" text-anchor="middle">6</text><text class="cellText" x="450" y="382" text-anchor="middle">9</text>
+
+    <g transform="translate(415 330)"><circle class="risk" r="18"/><text class="riskText" y="5" text-anchor="middle">R1</text></g>
+    <g transform="translate(430 190)"><circle class="risk" r="18"/><text class="riskText" y="5" text-anchor="middle">R2</text></g>
+    <g transform="translate(470 210)"><circle class="risk" r="18"/><text class="riskText" y="5" text-anchor="middle">R4</text></g>
+    <g transform="translate(385 222)"><circle class="risk" r="18"/><text class="riskText" y="5" text-anchor="middle">R7</text></g>
+    <g transform="translate(250 205)"><circle class="risk" r="18"/><text class="riskText" y="5" text-anchor="middle">R8</text></g>
+    <g transform="translate(275 360)"><circle class="risk" r="18"/><text class="riskText" y="5" text-anchor="middle">R6</text></g>
+
+    <text class="lbl" x="90" y="488" text-anchor="middle">Basso</text><text class="lbl" x="270" y="488" text-anchor="middle">Medio</text><text class="lbl" x="450" y="488" text-anchor="middle">Alto</text>
+    <text class="lbl" x="-35" y="82" text-anchor="end">Bassa</text><text class="lbl" x="-35" y="232" text-anchor="end">Media</text><text class="lbl" x="-35" y="382" text-anchor="end">Alta</text>
+  </g>
+  <text class="axis" x="460" y="705" text-anchor="middle">Impatto</text>
+  <text class="axis" x="78" y="390" transform="rotate(-90 78 390)" text-anchor="middle">Probabilità</text>
+
+  <g transform="translate(760 170)">
+    <text class="lbl" x="0" y="0">Legenda rischi</text>
+    <text class="legend" x="0" y="36">R1 Dati sentieri incompleti</text>
+    <text class="legend" x="0" y="66">R2 Ritardi sviluppo</text>
+    <text class="legend" x="0" y="96">R4 API meteo/mappe</text>
+    <text class="legend" x="0" y="126">R6 Segnalazioni non attendibili</text>
+    <text class="legend" x="0" y="156">R7 Sicurezza e privacy</text>
+    <text class="legend" x="0" y="186">R8 Interfaccia poco chiara</text>
+  </g>
+</svg>

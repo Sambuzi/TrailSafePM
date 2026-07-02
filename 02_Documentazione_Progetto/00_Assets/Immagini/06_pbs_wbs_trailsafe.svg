@@ -1,0 +1,156 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1250" viewBox="0 0 1800 1250" role="img" aria-labelledby="title desc">
+  <title id="title">PBS e WBS TrailSafe</title>
+  <desc id="desc">Figura fedele al documento PBS e WBS del progetto TrailSafe: a sinistra i componenti del prodotto, a destra le attività di progetto.</desc>
+  <defs>
+    <style>
+      .bg{fill:#f7faf7}.title{font:700 42px Arial,sans-serif;fill:#173226}.subtitle{font:400 20px Arial,sans-serif;fill:#4c6258}.panel{fill:#fff;stroke:#9fbdaa;stroke-width:2}.pbsHead{fill:#1f6f4a}.wbsHead{fill:#5f6630}.headText{font:700 26px Arial,sans-serif;fill:#fff}.headSub{font:400 15px Arial,sans-serif;fill:#eef6f1}.root{fill:#173226}.rootText{font:700 23px Arial,sans-serif;fill:#fff}.pbsCard{fill:#eef7f2;stroke:#93b9a4;stroke-width:1.8}.wbsCard{fill:#f5f2dc;stroke:#c7b86d;stroke-width:1.8}.cardTitle{font:700 19px Arial,sans-serif;fill:#183026}.cardCode{font:700 14px Arial,sans-serif;fill:#47745c}.wbsCode{font:700 14px Arial,sans-serif;fill:#776a2e}.item{font:400 14.5px Arial,sans-serif;fill:#3f5148}.linePbs{stroke:#7da88f;stroke-width:2.4;fill:none;stroke-linecap:round;stroke-linejoin:round}.lineWbs{stroke:#b1a358;stroke-width:2.4;fill:none;stroke-linecap:round;stroke-linejoin:round}.note{fill:#ffffff;stroke:#b9cbbf;stroke-width:1.7}.noteTitle{font:700 18px Arial,sans-serif;fill:#244335}.noteText{font:400 15px Arial,sans-serif;fill:#52645a}.arrow{stroke:#9ab4a6;stroke-width:2.5;fill:none;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#arrowHead)}
+    </style>
+    <marker id="arrowHead" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L8,3 z" fill="#9ab4a6"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1800" height="1250"/>
+  <text class="title" x="80" y="72">PBS e WBS - TrailSafe</text>
+  <text class="subtitle" x="80" y="110">Rappresentazione fedele della scomposizione del prodotto e del lavoro prevista nei documenti di planning.</text>
+
+  <rect class="panel" x="60" y="155" width="800" height="1010" rx="22"/>
+  <rect class="panel" x="940" y="155" width="800" height="1010" rx="22"/>
+
+  <rect class="pbsHead" x="90" y="185" width="740" height="86" rx="18"/>
+  <text class="headText" x="460" y="222" text-anchor="middle">PBS - Product Breakdown Structure</text>
+  <text class="headSub" x="460" y="250" text-anchor="middle">Che cosa compone il prodotto finale TrailSafe</text>
+
+  <rect class="wbsHead" x="970" y="185" width="740" height="86" rx="18"/>
+  <text class="headText" x="1340" y="222" text-anchor="middle">WBS - Work Breakdown Structure</text>
+  <text class="headSub" x="1340" y="250" text-anchor="middle">Quale lavoro serve per completare il progetto</text>
+
+  <!-- PBS root and connectors -->
+  <rect class="root" x="270" y="305" width="380" height="70" rx="16"/>
+  <text class="rootText" x="460" y="348" text-anchor="middle">1. Piattaforma TrailSafe</text>
+  <path class="linePbs" d="M460 375 V412"/>
+  <path class="linePbs" d="M195 412 H725"/>
+  <path class="linePbs" d="M195 412 V445"/>
+  <path class="linePbs" d="M460 412 V445"/>
+  <path class="linePbs" d="M725 412 V445"/>
+  <path class="linePbs" d="M195 612 V650"/>
+  <path class="linePbs" d="M460 612 V650"/>
+  <path class="linePbs" d="M725 612 V650"/>
+
+  <rect class="pbsCard" x="100" y="445" width="250" height="167" rx="16"/>
+  <text class="cardCode" x="125" y="476">1.1</text>
+  <text class="cardTitle" x="225" y="506" text-anchor="middle">Area utenti</text>
+  <text class="item" x="125" y="538">• registrazione</text>
+  <text class="item" x="125" y="563">• accesso</text>
+  <text class="item" x="125" y="588">• gestione del profilo</text>
+
+  <rect class="pbsCard" x="335" y="445" width="250" height="167" rx="16"/>
+  <text class="cardCode" x="360" y="476">1.2</text>
+  <text class="cardTitle" x="460" y="506" text-anchor="middle">Mappa e sentieri</text>
+  <text class="item" x="360" y="538">• mappa interattiva</text>
+  <text class="item" x="360" y="563">• percorsi e schede</text>
+  <text class="item" x="360" y="588">• punti di interesse</text>
+
+  <rect class="pbsCard" x="570" y="445" width="250" height="167" rx="16"/>
+  <text class="cardCode" x="595" y="476">1.3</text>
+  <text class="cardTitle" x="695" y="506" text-anchor="middle">Informazioni ambientali</text>
+  <text class="item" x="595" y="538">• dati meteorologici</text>
+  <text class="item" x="595" y="563">• condizioni sentiero</text>
+  <text class="item" x="595" y="588">• avvisi di chiusura</text>
+
+  <rect class="pbsCard" x="100" y="650" width="250" height="167" rx="16"/>
+  <text class="cardCode" x="125" y="681">1.4</text>
+  <text class="cardTitle" x="225" y="711" text-anchor="middle">Segnalazioni</text>
+  <text class="item" x="125" y="743">• invio segnalazione</text>
+  <text class="item" x="125" y="768">• descrizione e posizione</text>
+  <text class="item" x="125" y="793">• gestione dello stato</text>
+
+  <rect class="pbsCard" x="335" y="650" width="250" height="167" rx="16"/>
+  <text class="cardCode" x="360" y="681">1.5</text>
+  <text class="cardTitle" x="460" y="711" text-anchor="middle">Area amministrativa</text>
+  <text class="item" x="360" y="743">• gestione sentieri</text>
+  <text class="item" x="360" y="768">• controllo segnalazioni</text>
+  <text class="item" x="360" y="793">• pubblicazione avvisi</text>
+
+  <rect class="pbsCard" x="570" y="650" width="250" height="167" rx="16"/>
+  <text class="cardCode" x="595" y="681">1.6</text>
+  <text class="cardTitle" x="695" y="711" text-anchor="middle">Documentazione</text>
+  <text class="item" x="595" y="743">• manuale amministratori</text>
+  <text class="item" x="595" y="768">• documentazione tecnica</text>
+  <text class="item" x="595" y="793">• documentazione finale</text>
+
+  <rect class="note" x="135" y="910" width="650" height="105" rx="18"/>
+  <text class="noteTitle" x="460" y="950" text-anchor="middle">Lettura della PBS</text>
+  <text class="noteText" x="170" y="982">La PBS resta centrata sul prodotto: mostra le parti che devono esistere nell'MVP.</text>
+
+  <!-- WBS root and connectors -->
+  <rect class="root" x="1150" y="305" width="380" height="70" rx="16"/>
+  <text class="rootText" x="1340" y="348" text-anchor="middle">Lavoro da svolgere</text>
+  <path class="lineWbs" d="M1340 375 V412"/>
+  <path class="lineWbs" d="M1060 412 H1620"/>
+  <path class="lineWbs" d="M1060 412 V445"/>
+  <path class="lineWbs" d="M1245 412 V445"/>
+  <path class="lineWbs" d="M1435 412 V445"/>
+  <path class="lineWbs" d="M1620 412 V445"/>
+  <path class="lineWbs" d="M1130 612 V650"/>
+  <path class="lineWbs" d="M1340 612 V650"/>
+  <path class="lineWbs" d="M1550 612 V650"/>
+
+  <rect class="wbsCard" x="980" y="445" width="210" height="167" rx="16"/>
+  <text class="wbsCode" x="1005" y="476">1</text>
+  <text class="cardTitle" x="1085" y="506" text-anchor="middle">Gestione progetto</text>
+  <text class="item" x="1005" y="538">• avvio e piano</text>
+  <text class="item" x="1005" y="563">• riunioni avanzamento</text>
+  <text class="item" x="1005" y="588">• controllo rischi</text>
+
+  <rect class="wbsCard" x="1205" y="445" width="210" height="167" rx="16"/>
+  <text class="wbsCode" x="1230" y="476">2</text>
+  <text class="cardTitle" x="1310" y="506" text-anchor="middle">Analisi</text>
+  <text class="item" x="1230" y="538">• requisiti</text>
+  <text class="item" x="1230" y="563">• confronto committente</text>
+  <text class="item" x="1230" y="588">• validazione</text>
+
+  <rect class="wbsCard" x="1430" y="445" width="210" height="167" rx="16"/>
+  <text class="wbsCode" x="1455" y="476">3</text>
+  <text class="cardTitle" x="1535" y="506" text-anchor="middle">Progettazione</text>
+  <text class="item" x="1455" y="538">• interfaccia</text>
+  <text class="item" x="1455" y="563">• struttura piattaforma</text>
+  <text class="item" x="1455" y="588">• database e servizi</text>
+
+  <rect class="wbsCard" x="980" y="650" width="210" height="167" rx="16"/>
+  <text class="wbsCode" x="1005" y="681">4</text>
+  <text class="cardTitle" x="1085" y="711" text-anchor="middle">Sviluppo</text>
+  <text class="item" x="1005" y="743">• area utenti</text>
+  <text class="item" x="1005" y="768">• mappa e schede</text>
+  <text class="item" x="1005" y="793">• meteo, admin, segnal.</text>
+
+  <rect class="wbsCard" x="1205" y="650" width="210" height="167" rx="16"/>
+  <text class="wbsCode" x="1230" y="681">5</text>
+  <text class="cardTitle" x="1310" y="711" text-anchor="middle">Test</text>
+  <text class="item" x="1230" y="743">• test funzioni</text>
+  <text class="item" x="1230" y="768">• integrazione</text>
+  <text class="item" x="1230" y="793">• utenti pilota</text>
+
+  <rect class="wbsCard" x="1430" y="650" width="210" height="167" rx="16"/>
+  <text class="wbsCode" x="1455" y="681">6</text>
+  <text class="cardTitle" x="1535" y="711" text-anchor="middle">Rilascio</text>
+  <text class="item" x="1455" y="743">• ambiente</text>
+  <text class="item" x="1455" y="768">• dati iniziali</text>
+  <text class="item" x="1455" y="793">• formazione</text>
+
+  <rect class="wbsCard" x="1205" y="860" width="210" height="135" rx="16"/>
+  <text class="wbsCode" x="1230" y="891">7</text>
+  <text class="cardTitle" x="1310" y="921" text-anchor="middle">Chiusura</text>
+  <text class="item" x="1230" y="953">• verifica deliverable</text>
+  <text class="item" x="1230" y="978">• accettazione</text>
+
+  <path class="lineWbs" d="M1310 817 V860"/>
+
+  <rect class="note" x="1005" y="1035" width="670" height="80" rx="18"/>
+  <text class="noteTitle" x="1340" y="1070" text-anchor="middle">Lettura della WBS</text>
+  <text class="noteText" x="1045" y="1100">La WBS resta centrata sul lavoro: mostra fasi e attività per completare il progetto.</text>
+
+  <!-- cross reference -->
+  <path class="arrow" d="M830 530 C900 530 910 530 970 530"/>
+  <path class="arrow" d="M830 735 C900 735 910 735 970 735"/>
+</svg>

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+  <title id="title">Dashboard KPI TrailSafe</title>
+  <desc id="desc">Dashboard sintetica con stato avanzamento, ritardo, budget, requisiti, rischi e problemi del progetto TrailSafe al 20 novembre 2026.</desc>
+  <defs>
+    <style>
+      .bg{fill:#f7faf7}.title{font:700 36px Arial,sans-serif;fill:#183026}.sub{font:400 18px Arial,sans-serif;fill:#506258}.card{fill:#fff;stroke:#a5c2b1;stroke-width:2}.h{font:700 18px Arial,sans-serif;fill:#183026}.big{font:700 38px Arial,sans-serif;fill:#1f6f4a}.bigWarn{font:700 38px Arial,sans-serif;fill:#d6a13a}.bigBad{font:700 38px Arial,sans-serif;fill:#c95f4a}.t{font:400 15px Arial,sans-serif;fill:#4b5d53}.muted{font:400 13px Arial,sans-serif;fill:#6c7a72}.track{fill:#e5eee8}.bar{fill:#2f7d55}.barWarn{fill:#d6a13a}.pill{fill:#e8f2ed;stroke:#a5c2b1;stroke-width:1.5}.pillWarn{fill:#f5ead1;stroke:#d8b766;stroke-width:1.5}.pillBad{fill:#f6ded8;stroke:#ce806e;stroke-width:1.5}.pillText{font:700 13px Arial,sans-serif;fill:#365842}.listTitle{font:700 19px Arial,sans-serif;fill:#183026}.list{font:400 16px Arial,sans-serif;fill:#3f4e46}
+    </style>
+  </defs>
+  <rect class="bg" width="1400" height="900"/>
+  <text class="title" x="70" y="70">Dashboard KPI - 20/11/2026</text>
+  <text class="sub" x="70" y="103">Stato complessivo: in linea, con lieve ritardo tecnico sull'integrazione meteo.</text>
+
+  <rect class="card" x="70" y="145" width="380" height="205" rx="18"/>
+  <text class="h" x="105" y="187">Attività completate</text>
+  <text class="bigWarn" x="105" y="245">42%</text>
+  <text class="t" x="105" y="278">Previsto: 45%</text>
+  <rect class="track" x="105" y="304" width="285" height="18" rx="9"/>
+  <rect class="barWarn" x="105" y="304" width="266" height="18" rx="9"/>
+  <text class="muted" x="105" y="334">Leggermente sotto il piano</text>
+
+  <rect class="card" x="510" y="145" width="380" height="205" rx="18"/>
+  <text class="h" x="545" y="187">Budget utilizzato</text>
+  <text class="big" x="545" y="245">48%</text>
+  <text class="t" x="545" y="278">Previsto: 50%</text>
+  <rect class="track" x="545" y="304" width="285" height="18" rx="9"/>
+  <rect class="bar" x="545" y="304" width="274" height="18" rx="9"/>
+  <text class="muted" x="545" y="334">Costi sotto controllo</text>
+
+  <rect class="card" x="950" y="145" width="380" height="205" rx="18"/>
+  <text class="h" x="985" y="187">Requisiti ad alta priorità</text>
+  <text class="big" x="985" y="245">38%</text>
+  <text class="t" x="985" y="278">Previsto: 40%</text>
+  <rect class="track" x="985" y="304" width="285" height="18" rx="9"/>
+  <rect class="bar" x="985" y="304" width="271" height="18" rx="9"/>
+  <text class="muted" x="985" y="334">Avanzamento in linea</text>
+
+  <rect class="card" x="70" y="390" width="380" height="205" rx="18"/>
+  <text class="h" x="105" y="432">Ritardo complessivo</text>
+  <text class="bigWarn" x="105" y="490">4 giorni</text>
+  <text class="t" x="105" y="523">Previsto: 0 giorni</text>
+  <rect class="pillWarn" x="105" y="548" width="165" height="30" rx="15"/>
+  <text class="pillText" x="187" y="569" text-anchor="middle">da monitorare</text>
+
+  <rect class="card" x="510" y="390" width="380" height="205" rx="18"/>
+  <text class="h" x="545" y="432">Rischi aperti</text>
+  <text class="big" x="545" y="490">5</text>
+  <text class="t" x="545" y="523">Previsto: 5</text>
+  <rect class="pill" x="545" y="548" width="130" height="30" rx="15"/>
+  <text class="pillText" x="610" y="569" text-anchor="middle">in linea</text>
+
+  <rect class="card" x="950" y="390" width="380" height="205" rx="18"/>
+  <text class="h" x="985" y="432">Problemi aperti</text>
+  <text class="bigBad" x="985" y="490">3</text>
+  <text class="t" x="985" y="523">Previsto: 2</text>
+  <rect class="pillBad" x="985" y="548" width="175" height="30" rx="15"/>
+  <text class="pillText" x="1072" y="569" text-anchor="middle">sopra previsione</text>
+
+  <rect class="card" x="70" y="640" width="600" height="170" rx="18"/>
+  <text class="listTitle" x="105" y="684">Principali scostamenti</text>
+  <text class="list" x="105" y="722">• integrazione meteo più lenta del previsto</text>
+  <text class="list" x="105" y="755">• dati dei sentieri ancora da confermare</text>
+  <text class="list" x="105" y="788">• layout mappa mobile da rifinire</text>
+
+  <rect class="card" x="730" y="640" width="600" height="170" rx="18"/>
+  <text class="listTitle" x="765" y="684">Azioni correttive</text>
+  <text class="list" x="765" y="722">• priorità al completamento del meteo</text>
+  <text class="list" x="765" y="755">• verifica dati con il committente</text>
+  <text class="list" x="765" y="788">• rinvio funzioni medie se necessario</text>
+</svg>

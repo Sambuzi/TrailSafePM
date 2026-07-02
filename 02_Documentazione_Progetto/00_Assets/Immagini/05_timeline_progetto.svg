@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">Timeline progetto TrailSafe</title>
+  <desc id="desc">Timeline sintetica delle principali fasi e milestone del progetto TrailSafe.</desc>
+  <defs>
+    <style>
+      .bg{fill:#fbfbf8}.title{font:700 34px Arial,sans-serif;fill:#202820}.sub{font:400 18px Arial,sans-serif;fill:#59645b}.line{stroke:#2f7d55;stroke-width:6}.dot{fill:#2f7d55}.card{fill:#fff;stroke:#b7c9bd;stroke-width:2}.date{font:700 16px Arial,sans-serif;fill:#2f5f45}.h{font:700 18px Arial,sans-serif;fill:#1f3027}.t{font:400 14px Arial,sans-serif;fill:#435047}
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="620"/>
+  <text class="title" x="70" y="70">Timeline sintetica del progetto</text>
+  <text class="sub" x="70" y="102">Dalle attività di avvio alla consegna e chiusura della versione pilota.</text>
+  <line class="line" x1="110" y1="300" x2="1090" y2="300"/>
+
+  <g transform="translate(90 150)">
+    <circle class="dot" cx="60" cy="150" r="18"/>
+    <rect class="card" x="0" y="0" width="165" height="120" rx="12"/>
+    <text class="date" x="18" y="30">07/09/2026</text><text class="h" x="18" y="58">Kick-off</text><text class="t" x="18" y="86">avvio progetto</text>
+  </g>
+  <g transform="translate(285 330)">
+    <circle class="dot" cx="60" cy="-30" r="18"/>
+    <rect class="card" x="0" y="20" width="165" height="120" rx="12"/>
+    <text class="date" x="18" y="50">02/10/2026</text><text class="h" x="18" y="78">Requisiti</text><text class="t" x="18" y="106">scope approvato</text>
+  </g>
+  <g transform="translate(480 150)">
+    <circle class="dot" cx="60" cy="150" r="18"/>
+    <rect class="card" x="0" y="0" width="165" height="120" rx="12"/>
+    <text class="date" x="18" y="30">20/11/2026</text><text class="h" x="18" y="58">Avanzamento</text><text class="t" x="18" y="86">meteo da monitorare</text>
+  </g>
+  <g transform="translate(675 330)">
+    <circle class="dot" cx="60" cy="-30" r="18"/>
+    <rect class="card" x="0" y="20" width="165" height="120" rx="12"/>
+    <text class="date" x="18" y="50">22/01/2027</text><text class="h" x="18" y="78">Preparazione</text><text class="t" x="18" y="106">rilascio pilota</text>
+  </g>
+  <g transform="translate(870 150)">
+    <circle class="dot" cx="60" cy="150" r="18"/>
+    <rect class="card" x="0" y="0" width="165" height="120" rx="12"/>
+    <text class="date" x="18" y="30">29/01/2027</text><text class="h" x="18" y="58">Chiusura</text><text class="t" x="18" y="86">MVP accettato</text>
+  </g>
+  <text class="sub" x="600" y="560" text-anchor="middle">Durata prevista: circa 5 mesi. Perimetro: area pilota con 25 sentieri caricati.</text>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+  <title id="title">Roadmap iterazioni TrailSafe</title>
+  <desc id="desc">Sequenza delle cinque iterazioni previste per realizzare l'MVP TrailSafe.</desc>
+  <defs>
+    <style>
+      .bg{fill:#fbfbf8}.title{font:700 34px Arial,sans-serif;fill:#202820}.sub{font:400 18px Arial,sans-serif;fill:#59645b}.axis{stroke:#7d9b89;stroke-width:5}.card{fill:#fff;stroke:#b7c9bd;stroke-width:2}.num{fill:#2f7d55}.numText{font:700 24px Arial,sans-serif;fill:#fff}.h{font:700 19px Arial,sans-serif;fill:#1f3027}.t{font:400 15px Arial,sans-serif;fill:#435047}.tag{fill:#e9f3ed}.tagText{font:700 13px Arial,sans-serif;fill:#35624b}
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="650"/>
+  <text class="title" x="70" y="70">Roadmap delle iterazioni</text>
+  <text class="sub" x="70" y="102">Le attività costruiscono prima le basi dell'applicazione e poi portano l'MVP al rilascio pilota.</text>
+  <line class="axis" x1="140" y1="300" x2="1060" y2="300"/>
+
+  <g transform="translate(80 180)">
+    <rect class="card" width="200" height="250" rx="14"/>
+    <circle class="num" cx="100" cy="0" r="34"/><text class="numText" x="100" y="8" text-anchor="middle">1</text>
+    <text class="h" x="100" y="70" text-anchor="middle">Utenti e accesso</text>
+    <text class="t" x="24" y="112">Registrazione</text><text class="t" x="24" y="140">Accesso</text><text class="t" x="24" y="168">Profilo base</text><text class="t" x="24" y="196">Database iniziale</text>
+    <rect class="tag" x="35" y="218" width="130" height="26" rx="13"/><text class="tagText" x="100" y="236" text-anchor="middle">base tecnica</text>
+  </g>
+  <g transform="translate(300 180)">
+    <rect class="card" width="200" height="250" rx="14"/>
+    <circle class="num" cx="100" cy="0" r="34"/><text class="numText" x="100" y="8" text-anchor="middle">2</text>
+    <text class="h" x="100" y="70" text-anchor="middle">Mappa e sentieri</text>
+    <text class="t" x="24" y="112">Elenco sentieri</text><text class="t" x="24" y="140">Mappa interattiva</text><text class="t" x="24" y="168">Schede percorso</text><text class="t" x="24" y="196">Dati pilota</text>
+    <rect class="tag" x="40" y="218" width="120" height="26" rx="13"/><text class="tagText" x="100" y="236" text-anchor="middle">consultazione</text>
+  </g>
+  <g transform="translate(520 180)">
+    <rect class="card" width="200" height="250" rx="14"/>
+    <circle class="num" cx="100" cy="0" r="34"/><text class="numText" x="100" y="8" text-anchor="middle">3</text>
+    <text class="h" x="100" y="70" text-anchor="middle">Meteo e segnalazioni</text>
+    <text class="t" x="24" y="112">Servizio meteo</text><text class="t" x="24" y="140">Stato percorsi</text><text class="t" x="24" y="168">Segnalazioni</text><text class="t" x="24" y="196">Preferiti</text>
+    <rect class="tag" x="35" y="218" width="130" height="26" rx="13"/><text class="tagText" x="100" y="236" text-anchor="middle">sicurezza</text>
+  </g>
+  <g transform="translate(740 180)">
+    <rect class="card" width="200" height="250" rx="14"/>
+    <circle class="num" cx="100" cy="0" r="34"/><text class="numText" x="100" y="8" text-anchor="middle">4</text>
+    <text class="h" x="100" y="70" text-anchor="middle">Area amministrativa</text>
+    <text class="t" x="24" y="112">Gestione sentieri</text><text class="t" x="24" y="140">Verifica segnalazioni</text><text class="t" x="24" y="168">Avvisi</text><text class="t" x="24" y="196">Chiusure</text>
+    <rect class="tag" x="32" y="218" width="136" height="26" rx="13"/><text class="tagText" x="100" y="236" text-anchor="middle">gestione contenuti</text>
+  </g>
+  <g transform="translate(960 180)">
+    <rect class="card" width="200" height="250" rx="14"/>
+    <circle class="num" cx="100" cy="0" r="34"/><text class="numText" x="100" y="8" text-anchor="middle">5</text>
+    <text class="h" x="100" y="70" text-anchor="middle">Test e rilascio</text>
+    <text class="t" x="24" y="112">Test funzionali</text><text class="t" x="24" y="140">Utenti pilota</text><text class="t" x="24" y="168">Formazione</text><text class="t" x="24" y="196">Consegna MVP</text>
+    <rect class="tag" x="45" y="218" width="110" height="26" rx="13"/><text class="tagText" x="100" y="236" text-anchor="middle">rilascio</text>
+  </g>
+  <text class="sub" x="600" y="560" text-anchor="middle">Le funzioni a priorità media possono essere rinviate se mettono a rischio la consegna dell'MVP.</text>
+</svg>
