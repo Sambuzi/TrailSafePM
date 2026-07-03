@@ -3,6 +3,8 @@
     <td align="left" valign="top">
       <strong>Università di Bologna</strong><br>
       Corso di Laurea Magistrale in Ingegneria e Scienze Informatiche<br>
+      Insegnamento: Project Management<br>
+      Anno accademico: 2025/2026<br>
       Studente: Sajmir Buzi
     </td>
     <td align="right" valign="top">
@@ -15,13 +17,15 @@
 
 ## 1. Introduzione
 
-Questo elaborato descrive la gestione del progetto TrailSafe, una piattaforma web pensata per rendere più semplice e ordinata la consultazione dei sentieri escursionistici. L'idea di base è raccogliere in un unico punto informazioni che, nella pratica, spesso sono sparse tra siti istituzionali, mappe, comunicazioni locali, previsioni meteo e segnalazioni informali.
+Questo elaborato presenta il lavoro svolto per il progetto TrailSafe nell'ambito dell'insegnamento di Project Management. L'obiettivo non è descrivere soltanto un'idea software, ma mostrare come quella idea sia stata trasformata in un progetto strutturato, con una logica di gestione, una pianificazione, un controllo dell'avanzamento e una chiusura formale.
 
-TrailSafe nasce quindi come servizio a supporto di due gruppi principali. Da un lato ci sono gli escursionisti, che hanno bisogno di sapere se un percorso è aperto, praticabile e aggiornato prima di organizzare un'uscita. Dall'altro c'è l'ente che gestisce i sentieri, che deve mantenere aggiornati contenuti, avvisi, chiusure e segnalazioni ricevute dagli utenti.
+TrailSafe è stato pensato come una piattaforma web dedicata alla consultazione dei sentieri escursionistici. Il problema di partenza è abbastanza concreto: chi organizza un'escursione spesso deve cercare informazioni in fonti diverse, come siti istituzionali, mappe online, previsioni meteo, comunicazioni locali o segnalazioni informali. Questo rende più difficile capire se un percorso sia aperto, aggiornato, sicuro o interessato da criticità temporanee.
 
-Il progetto è stato impostato come scenario simulato per un ente parco territoriale. La piattaforma non viene trattata come prodotto completo e definitivo, ma come MVP, cioè una prima versione funzionante e limitata. Nel caso di TrailSafe, l'MVP riguarda un'area geografica pilota e un numero iniziale di circa 20-30 sentieri. Questa scelta permette di mantenere il progetto realistico, controllare tempi e costi e verificare il valore della soluzione prima di pensare a un'estensione più ampia.
+La piattaforma proposta prova a rispondere a questa esigenza raccogliendo in un unico ambiente le informazioni essenziali sui sentieri. Per gli escursionisti significa poter consultare percorsi, schede informative, condizioni meteo, avvisi e segnalazioni. Per l'ente gestore significa avere uno strumento più ordinato per aggiornare i contenuti, controllare le segnalazioni ricevute e pubblicare eventuali chiusure o comunicazioni operative.
 
-L'elaborato non si concentra sulla programmazione della piattaforma, ma sulla gestione del progetto. Il lavoro svolto copre le fasi principali: avvio, pianificazione, esecuzione, monitoraggio, controllo e chiusura. L'obiettivo è mostrare come un'idea software possa essere trasformata in un progetto organizzato, con documenti, ruoli, rischi, decisioni, attività, criteri di accettazione e conclusione finale.
+Il progetto è stato costruito come scenario simulato per un ente parco territoriale. Per mantenerlo realistico, TrailSafe non è stato trattato come una piattaforma completa e definitiva, ma come MVP, cioè una prima versione funzionante e limitata. L'MVP riguarda un'area geografica pilota e un numero iniziale di circa 20-30 sentieri. Questa scelta permette di verificare il valore della soluzione senza aumentare subito complessità, tempi e costi.
+
+Il contenuto del file descrive quindi l'intero percorso di gestione del progetto: avvio, pianificazione, esecuzione, monitoraggio e chiusura. Leggendolo, si dovrebbe capire non solo che cosa fa TrailSafe, ma anche quali documenti sono stati prodotti, perché sono stati prodotti e come le varie parti del progetto sono collegate tra loro.
 
 ---
 
