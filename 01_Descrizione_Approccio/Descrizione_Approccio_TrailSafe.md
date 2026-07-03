@@ -1,3 +1,16 @@
+<table width="100%">
+  <tr>
+    <td align="left" valign="top">
+      <strong>Università di Bologna</strong><br>
+      Corso di Laurea Magistrale in Ingegneria e Scienze Informatiche<br>
+      Studente: Sajmir Buzi
+    </td>
+    <td align="right" valign="top">
+      <img src="../02_Documentazione_Progetto/00_Assets/Immagini/logo_unibo.svg" alt="Logo Università di Bologna" width="260">
+    </td>
+  </tr>
+</table>
+
 # Descrizione dell'approccio utilizzato - TrailSafe
 
 ## 1. Introduzione

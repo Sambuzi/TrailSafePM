@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="120" viewBox="0 0 520 120" role="img" aria-labelledby="title desc">
+  <title id="title">Logo Università di Bologna</title>
+  <desc id="desc">Wordmark testuale Alma Mater Studiorum - Università di Bologna.</desc>
+  <rect width="520" height="120" fill="none"/>
+  <rect x="18" y="18" width="10" height="84" fill="#b21b2c"/>
+  <text x="50" y="50" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700" fill="#4a4a4a" letter-spacing="1.2">ALMA MATER STUDIORUM</text>
+  <text x="50" y="86" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700" fill="#4a4a4a" letter-spacing="1.2">UNIVERSITÀ DI BOLOGNA</text>
+</svg>
