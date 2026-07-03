@@ -4,9 +4,8 @@ Benvenuto nella documentazione del progetto **TrailSafe**, una simulazione compl
 
 Il progetto documenta l'intero ciclo di vita: avvio, pianificazione, esecuzione, monitoraggio, controllo e chiusura.
 
-## Accesso rapido
+## Descrizione dell'approccio utilizzato
 
-- [README del progetto](README.md)
 - [Descrizione dell'approccio](01_Descrizione_Approccio/Descrizione_Approccio_TrailSafe.md)
 
 ## Documentazione di progetto
