@@ -1,20 +1,19 @@
-<table width="100%">
-  <tr>
-    <!-- Dati Accademici e Studente -->
-    <td width="65%" align="left" valign="top">
-      <h3>ALMA MATER STUDIORUM • UNIVERSITÀ DI BOLOGNA</h3>
-      <p><em>Corso di Laurea Magistrale in Ingegneria e Scienze Informatiche</em></p>
-      <br>
-      <strong>Insegnamento:</strong> Project Management<br>
-      <strong>Anno Accademico:</strong> 2025/2026<br>
-      <strong>Studente:</strong> Sajmir Buzi
-    </td>
-    <!-- Logo di Ateneo -->
-    <td width="35%" align="right" valign="middle">
-      <img src="../02_Documentazione_Progetto/00_Assets/Immagini/logo_unibo.svg" alt="Logo Università di Bologna" width="220">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="../02_Documentazione_Progetto/00_Assets/Immagini/logo_unibo.svg" alt="Logo Università di Bologna" width="280">
+</p>
+
+<p align="center">
+  <strong>ALMA MATER STUDIORUM • UNIVERSITÀ DI BOLOGNA</strong><br>
+  <kbd>Corso di Laurea Magistrale in Ingegneria e Scienze Informatiche</kbd>
+</p>
+
+<br>
+
+| **Informazioni Progetto** | |
+| :--- | :--- |
+| **Insegnamento:** | Project Management |
+| **Anno Accademico:** | 2025/2026 |
+| **Studente:** | Sajmir Buzi |
 
 ---
 
@@ -194,6 +193,8 @@ La documentazione è stata organizzata seguendo le fasi del ciclo di vita del pr
 - Chiusura Finale.
 
 Questa organizzazione permette di seguire il progetto dall'idea iniziale fino alla consegna. Ogni documento ha una funzione precisa e contribuisce a rendere tracciabile il lavoro svolto.
+
+---
 
 ## 9. Considerazioni finali
 
