@@ -1,26 +1,22 @@
-<table width="100%" style="border-collapse: collapse; border: none; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+<table width="100%">
   <tr>
     <!-- Dati Accademici e Studente -->
-    <td align="left" valign="middle" style="border: none; padding: 0; width: 65%;">
-      <div style="border-left: 4px solid #990000; padding-left: 15px; margin: 10px 0;">
-        <span style="font-size: 18px; font-weight: 800; letter-spacing: 0.5px; color: #111111; text-transform: uppercase;">Alma Mater Studiorum • Università di Bologna</span><br>
-        <span style="font-size: 14px; font-weight: 600; color: #555555;">Corso di Laurea Magistrale in Ingegneria e Scienze Informatiche</span>
-      </div>
-      <div style="margin-top: 25px; font-size: 13px; color: #444444; line-height: 1.6;">
-        <span style="color: #777777;">Insegnamento:</span> <strong>Project Management</strong><br>
-        <span style="color: #777777;">Anno Accademico:</span> 2025/2026<br>
-        <span style="color: #777777;">Studente:</span> <strong>Sajmir Buzi</strong>
-      </div>
+    <td width="65%" align="left" valign="top">
+      <h3>ALMA MATER STUDIORUM • UNIVERSITÀ DI BOLOGNA</h3>
+      <p><em>Corso di Laurea Magistrale in Ingegneria e Scienze Informatiche</em></p>
+      <br>
+      <strong>Insegnamento:</strong> Project Management<br>
+      <strong>Anno Accademico:</strong> 2025/2026<br>
+      <strong>Studente:</strong> Sajmir Buzi
     </td>
     <!-- Logo di Ateneo -->
-    <td align="right" valign="middle" style="border: none; padding: 0; width: 35%;">
-      <img src="../02_Documentazione_Progetto/00_Assets/Immagini/logo_unibo.svg" alt="Logo Università di Bologna" width="240" style="display: block; max-width: 100%; height: auto;">
+    <td width="35%" align="right" valign="middle">
+      <img src="../02_Documentazione_Progetto/00_Assets/Immagini/logo_unibo.svg" alt="Logo Università di Bologna" width="220">
     </td>
   </tr>
 </table>
 
-<br>
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, #990000, rgba(0,0,0,0.1)); margin-bottom: 30px;">
+---
 
 # Descrizione dell'approccio utilizzato - TrailSafe
 
