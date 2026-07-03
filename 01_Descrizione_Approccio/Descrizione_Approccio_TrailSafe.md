@@ -4,9 +4,9 @@
 
 <p align="center">
   <strong>ALMA MATER STUDIORUM • UNIVERSITÀ DI BOLOGNA</strong><br>
-  <kbd>Corso di Laurea Magistrale in Ingegneria e Scienze Informatiche</kbd>
-  <kbd>corso di Project Management</kbd>
-  <kbd>Anno Accademico 2025/2026</kbd>
+  <kbd>Corso di Laurea Magistrale in Ingegneria e Scienze Informatiche</kbd><br>
+  <kbd>corso di Project Management</kbd><br>
+  <kbd>Anno Accademico 2025/2026</kbd><br>
   <kbd>Studente: Sajmir Buzi</kbd>
 </p>
 
