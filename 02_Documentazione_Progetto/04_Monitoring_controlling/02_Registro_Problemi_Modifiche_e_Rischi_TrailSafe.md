@@ -83,3 +83,9 @@ Gli stati usati per i rischi sono:
 - **Sotto controllo**, quando il rischio resta noto ma le misure adottate sono considerate sufficienti.
 
 Le modifiche approvate o i problemi con impatto medio/alto dovranno essere ripresi nella riunione di avanzamento successiva, così da verificare se l'azione prevista ha prodotto l'effetto atteso.
+
+---
+
+<nav class="next-page">
+  <a href="../05_Closing/01_Accettazione_e_Chiusura_TrailSafe.md">Pagina successiva: Accettazione e chiusura &rarr;</a>
+</nav>

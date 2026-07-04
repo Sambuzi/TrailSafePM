@@ -147,3 +147,9 @@ Una funzionalità del backlog sarà considerata completata quando:
 - se riguarda l'area amministrativa, è stata controllata anche con il referente degli amministratori.
 
 Il completamento delle singole funzionalità sarà monitorato dal Project Manager durante le riunioni operative e usato per aggiornare l'avanzamento complessivo del progetto.
+
+---
+
+<nav class="next-page">
+  <a href="02_Kickoff_e_Riunioni_TrailSafe.md">Pagina successiva: Kickoff e riunioni &rarr;</a>
+</nav>

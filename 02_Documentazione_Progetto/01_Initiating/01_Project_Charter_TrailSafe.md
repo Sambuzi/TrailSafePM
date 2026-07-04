@@ -200,3 +200,9 @@ L'approvazione del presente Project Charter autorizza l'avvio formale del proget
 |---|---|---|---|
 | Committente / Sponsor | Da definire |  |  |
 | Project Manager | [Nome e cognome] |  |  |
+
+---
+
+<nav class="next-page">
+  <a href="02_Business_Case_TrailSafe.md">Pagina successiva: Business Case &rarr;</a>
+</nav>

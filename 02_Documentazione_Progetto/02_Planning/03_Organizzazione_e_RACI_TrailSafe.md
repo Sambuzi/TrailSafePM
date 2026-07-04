@@ -87,3 +87,9 @@ Per mantenere il progetto sotto controllo senza appesantire troppo il lavoro, so
 - riunioni aggiuntive solo quando emergono problemi, modifiche allo scope o dubbi sui requisiti.
 
 Le decisioni rilevanti e le modifiche approvate dovranno essere riportate nei documenti di progetto o nei verbali di avanzamento, in modo da mantenere una traccia condivisa.
+
+---
+
+<nav class="next-page">
+  <a href="05_Analisi_dei_Rischi_TrailSafe.md">Pagina successiva: Analisi dei rischi &rarr;</a>
+</nav>

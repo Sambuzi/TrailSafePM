@@ -107,3 +107,9 @@ Il progetto rimane sotto controllo. Il ritardo tecnico è contenuto e può esser
 La priorità per le prossime settimane sarà completare le funzionalità essenziali dell'MVP, evitare l'espansione dello scope e preparare i test di integrazione. Budget e requisiti ad alta priorità risultano ancora in linea con il piano.
 
 La valutazione complessiva è quindi positiva, con una raccomandazione: monitorare da vicino i servizi esterni e la qualità dei dati dei sentieri, perché sono i due elementi che potrebbero avere l'impatto maggiore sul rilascio pilota.
+
+---
+
+<nav class="next-page">
+  <a href="02_Registro_Problemi_Modifiche_e_Rischi_TrailSafe.md">Pagina successiva: Registro problemi, modifiche e rischi &rarr;</a>
+</nav>

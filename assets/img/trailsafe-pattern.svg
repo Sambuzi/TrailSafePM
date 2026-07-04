@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="Profilo stilizzato di sentieri e montagne">
+  <rect width="1200" height="420" fill="#145236"/>
+  <path d="M0 260 C160 220 250 155 390 195 C540 240 645 85 790 130 C930 175 1030 105 1200 145 L1200 420 L0 420 Z" fill="#1f7a4d" opacity=".72"/>
+  <path d="M0 315 C135 280 255 250 405 275 C555 300 675 205 825 235 C980 265 1070 215 1200 235 L1200 420 L0 420 Z" fill="#183024" opacity=".48"/>
+  <path d="M130 360 C250 320 340 330 470 292 C610 252 720 270 850 225 C955 189 1060 190 1160 162" fill="none" stroke="#e8f5ee" stroke-width="10" stroke-linecap="round" opacity=".62"/>
+  <path d="M130 360 C250 320 340 330 470 292 C610 252 720 270 850 225 C955 189 1060 190 1160 162" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-dasharray="18 18" opacity=".7"/>
+</svg>

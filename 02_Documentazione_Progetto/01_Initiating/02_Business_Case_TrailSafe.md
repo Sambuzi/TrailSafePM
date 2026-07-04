@@ -180,3 +180,9 @@ L'approvazione del Business Case consente di passare alla definizione più detta
 |---|---|---|---|
 | Sponsor / Committente | Da definire |  |  |
 | Project Manager | [Nome e cognome] |  |  |
+
+---
+
+<nav class="next-page">
+  <a href="03_Stakeholder_Register_TrailSafe.md">Pagina successiva: Stakeholder Register &rarr;</a>
+</nav>

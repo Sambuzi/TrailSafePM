@@ -182,3 +182,9 @@ Saranno richieste approvazioni nei seguenti momenti:
 6. chiusura del progetto.
 
 Ogni approvazione dovrà essere tracciata con una breve nota, un verbale o un aggiornamento del documento interessato. Eventuali condizioni o riserve espresse dal committente dovranno essere riportate insieme alla decisione.
+
+---
+
+<nav class="next-page">
+  <a href="../03_Execution/01_Backlog_e_Piano_Iterazioni_TrailSafe.md">Pagina successiva: Backlog e piano iterazioni &rarr;</a>
+</nav>

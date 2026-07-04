@@ -184,3 +184,9 @@ I verbali e le sintesi delle riunioni saranno salvati nella cartella del progett
 Le decisioni rilevanti dovranno essere riportate anche nel Registro Decisioni e Attività, soprattutto quando incidono su scope, priorità, tempi, rischi o rilascio.
 
 Le attività assegnate durante le riunioni saranno considerate aperte fino a conferma del responsabile o verifica del Project Manager. In caso di attività non completate entro la scadenza, il punto verrà ripreso nella riunione successiva.
+
+---
+
+<nav class="next-page">
+  <a href="03_Registro_Decisioni_e_Attivita_TrailSafe.md">Pagina successiva: Registro decisioni e attivita &rarr;</a>
+</nav>

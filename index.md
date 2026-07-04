@@ -1,8 +1,27 @@
 # TrailSafe - Elaborato di Project Management
 
+<div class="trail-hero">
+
 Benvenuto nella documentazione del progetto **TrailSafe**, una simulazione completa di Project Management per una piattaforma web dedicata alla sicurezza sui sentieri escursionistici.
 
 Il progetto documenta l'intero ciclo di vita: avvio, pianificazione, esecuzione, monitoraggio, controllo e chiusura.
+
+</div>
+
+<div class="trail-grid">
+  <div class="trail-card">
+    <strong>Scenario</strong>
+    <p>Piattaforma web per consultare sentieri, stato dei percorsi, meteo e segnalazioni.</p>
+  </div>
+  <div class="trail-card">
+    <strong>Approccio</strong>
+    <p>Gestione ibrida: pianificazione tradizionale e iterazioni Agile per l'MVP.</p>
+  </div>
+  <div class="trail-card">
+    <strong>Risultato</strong>
+    <p>Documentazione completa del progetto, dalla definizione iniziale alla chiusura.</p>
+  </div>
+</div>
 
 ## Descrizione dell'approccio utilizzato
 

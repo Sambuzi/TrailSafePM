@@ -167,3 +167,9 @@ I work package principali del progetto sono:
 10. formazione, documentazione e chiusura del progetto.
 
 Questi work package saranno usati come base per assegnare responsabilità, stimare tempi e costi, individuare le dipendenze e seguire l'avanzamento del progetto. Eventuali variazioni rilevanti dovranno essere valutate insieme allo scope, perché potrebbero incidere su tempi, budget o priorità di rilascio.
+
+---
+
+<nav class="next-page">
+  <a href="03_Organizzazione_e_RACI_TrailSafe.md">Pagina successiva: Organizzazione e RACI &rarr;</a>
+</nav>

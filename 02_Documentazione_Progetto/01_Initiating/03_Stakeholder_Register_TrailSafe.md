@@ -87,3 +87,9 @@ Il registro sarà aggiornato quando:
 - cambia il livello di interesse o influenza;
 - emergono nuove esigenze;
 - si verificano problemi di comunicazione o partecipazione.
+
+---
+
+<nav class="next-page">
+  <a href="04_Obiettivi_Vincoli_Criteri_Successo.md">Pagina successiva: Obiettivi, vincoli e criteri di successo &rarr;</a>
+</nav>

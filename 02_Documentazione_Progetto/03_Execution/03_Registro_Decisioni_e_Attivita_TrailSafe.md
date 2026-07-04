@@ -82,3 +82,9 @@ Il registro viene aggiornato quando:
 - una decisione viene approvata, rifiutata o modificata.
 
 Le decisioni che incidono su requisiti, scope, budget o rilascio dovranno essere coerenti con i documenti di pianificazione. Se necessario, il Project Manager aggiornerà anche backlog, piano di gestione, analisi dei rischi o piano delle iterazioni.
+
+---
+
+<nav class="next-page">
+  <a href="../04_Monitoring_controlling/01_Report_Avanzamento_e_KPI_TrailSafe.md">Pagina successiva: Report avanzamento e KPI &rarr;</a>
+</nav>

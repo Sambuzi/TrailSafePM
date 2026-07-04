@@ -48,3 +48,9 @@
 | Alta | Mappa sentieri, schede percorso, stato sentiero, area amministrativa base, segnalazioni |
 | Media | Meteo, avvisi, moderazione avanzata, dashboard amministrativa |
 | Bassa | Funzioni social, profilo utente avanzato, preferiti evoluti, espansione multi-area |
+
+---
+
+<nav class="next-page">
+  <a href="../02_Planning/01_Scope_e_Requisiti_TrailSafe.md">Pagina successiva: Scope e requisiti &rarr;</a>
+</nav>

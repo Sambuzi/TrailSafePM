@@ -102,3 +102,9 @@ La firma del documento conferma l'accettazione della versione pilota e la chiusu
 |---|---|---|---|
 | Sponsor / Committente | Da definire |  |  |
 | Project Manager | [Nome e cognome] |  |  |
+
+---
+
+<nav class="next-page">
+  <a href="02_Chiusura_Finale_TrailSafe.md">Pagina successiva: Chiusura finale &rarr;</a>
+</nav>

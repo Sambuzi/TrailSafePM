@@ -129,3 +129,9 @@ Il progetto TrailSafe si conclude con la consegna e l'accettazione della version
 Gli obiettivi principali sono stati raggiunti rispettando i limiti di tempo, budget e scope definiti durante la pianificazione. Le attività residue non bloccano l'utilizzo della piattaforma e potranno essere considerate in una fase successiva.
 
 La chiusura del progetto conferma quindi il completamento del perimetro concordato e lascia al committente una base funzionante su cui valutare eventuali sviluppi futuri.
+
+---
+
+<nav class="next-page">
+  <a href="../../index.md">Torna all'indice &rarr;</a>
+</nav>

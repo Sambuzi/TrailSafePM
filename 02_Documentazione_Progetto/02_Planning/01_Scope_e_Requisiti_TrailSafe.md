@@ -148,3 +148,9 @@ Eventuali richieste che modificano funzionalità, tempi o costi non verranno ins
 3. analizzate rispetto a tempi, costi e rischi;
 4. approvate o rifiutate dal committente;
 5. riportate nei documenti di progetto, se approvate.
+
+---
+
+<nav class="next-page">
+  <a href="02_PBS_e_WBS_TrailSafe.md">Pagina successiva: PBS e WBS &rarr;</a>
+</nav>

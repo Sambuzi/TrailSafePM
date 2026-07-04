@@ -104,3 +104,9 @@ Per ogni rischio verrà indicato uno stato di avanzamento:
 - **chiuso**, quando il rischio non è più rilevante o l'azione prevista è stata completata.
 
 Le situazioni critiche dovranno essere comunicate al committente senza attendere la riunione successiva, soprattutto se possono incidere sul rilascio della versione pilota.
+
+---
+
+<nav class="next-page">
+  <a href="06_Piano_di_Gestione_TrailSafe.md">Pagina successiva: Piano di gestione &rarr;</a>
+</nav>
