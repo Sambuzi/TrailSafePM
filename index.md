@@ -41,7 +41,7 @@ Il progetto documenta l'intero ciclo di vita: avvio, pianificazione, esecuzione,
 - [Scope e requisiti](02_Documentazione_Progetto/02_Planning/01_Scope_e_Requisiti_TrailSafe.md)
 - [PBS e WBS](02_Documentazione_Progetto/02_Planning/02_PBS_e_WBS_TrailSafe.md)
 - [Organizzazione e RACI](02_Documentazione_Progetto/02_Planning/03_Organizzazione_e_RACI_TrailSafe.md)
-- [Tempi, costi e Gantt - Excel](02_Documentazione_Progetto/02_Planning/04_Tempi_Costi_e_Gantt_TrailSafe.xlsx)
+- [Tempi, costi e Gantt](02_Documentazione_Progetto/02_Planning/04_Tempi_Costi_e_Gantt_TrailSafe.md)
 - [Analisi dei rischi](02_Documentazione_Progetto/02_Planning/05_Analisi_dei_Rischi_TrailSafe.md)
 - [Piano di gestione](02_Documentazione_Progetto/02_Planning/06_Piano_di_Gestione_TrailSafe.md)
 
