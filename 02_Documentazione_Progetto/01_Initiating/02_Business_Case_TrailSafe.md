@@ -184,5 +184,6 @@ L'approvazione del Business Case consente di passare alla definizione più detta
 ---
 
 <nav class="next-page">
+  <a class="previous-page" href="01_Project_Charter_TrailSafe.html">&larr; Pagina precedente: Project Charter</a>
   <a href="03_Stakeholder_Register_TrailSafe.html">Pagina successiva: Stakeholder Register &rarr;</a>
 </nav>

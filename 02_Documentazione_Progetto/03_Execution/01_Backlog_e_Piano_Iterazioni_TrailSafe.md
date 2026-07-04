@@ -151,5 +151,6 @@ Il completamento delle singole funzionalità sarà monitorato dal Project Manage
 ---
 
 <nav class="next-page">
+  <a class="previous-page" href="../02_Planning/06_Piano_di_Gestione_TrailSafe.html">&larr; Pagina precedente: Piano di gestione</a>
   <a href="02_Kickoff_e_Riunioni_TrailSafe.html">Pagina successiva: Kickoff e riunioni &rarr;</a>
 </nav>

@@ -52,5 +52,6 @@
 ---
 
 <nav class="next-page">
+  <a class="previous-page" href="03_Stakeholder_Register_TrailSafe.html">&larr; Pagina precedente: Stakeholder Register</a>
   <a href="../02_Planning/01_Scope_e_Requisiti_TrailSafe.html">Pagina successiva: Scope e requisiti &rarr;</a>
 </nav>

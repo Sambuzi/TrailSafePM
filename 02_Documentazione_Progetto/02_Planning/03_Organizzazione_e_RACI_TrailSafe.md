@@ -91,5 +91,6 @@ Le decisioni rilevanti e le modifiche approvate dovranno essere riportate nei do
 ---
 
 <nav class="next-page">
+  <a class="previous-page" href="02_PBS_e_WBS_TrailSafe.html">&larr; Pagina precedente: PBS e WBS</a>
   <a href="05_Analisi_dei_Rischi_TrailSafe.html">Pagina successiva: Analisi dei rischi &rarr;</a>
 </nav>

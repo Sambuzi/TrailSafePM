@@ -188,5 +188,6 @@ Le attività assegnate durante le riunioni saranno considerate aperte fino a con
 ---
 
 <nav class="next-page">
+  <a class="previous-page" href="01_Backlog_e_Piano_Iterazioni_TrailSafe.html">&larr; Pagina precedente: Backlog e piano iterazioni</a>
   <a href="03_Registro_Decisioni_e_Attivita_TrailSafe.html">Pagina successiva: Registro decisioni e attivita &rarr;</a>
 </nav>

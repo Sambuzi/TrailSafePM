@@ -133,5 +133,6 @@ La chiusura del progetto conferma quindi il completamento del perimetro concorda
 ---
 
 <nav class="next-page">
+  <a class="previous-page" href="01_Accettazione_e_Chiusura_TrailSafe.html">&larr; Pagina precedente: Accettazione e chiusura</a>
   <a href="../../index.html">Torna all'indice &rarr;</a>
 </nav>

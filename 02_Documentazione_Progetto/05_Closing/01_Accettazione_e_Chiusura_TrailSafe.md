@@ -106,5 +106,6 @@ La firma del documento conferma l'accettazione della versione pilota e la chiusu
 ---
 
 <nav class="next-page">
+  <a class="previous-page" href="../04_Monitoring_controlling/02_Registro_Problemi_Modifiche_e_Rischi_TrailSafe.html">&larr; Pagina precedente: Registro problemi, modifiche e rischi</a>
   <a href="02_Chiusura_Finale_TrailSafe.html">Pagina successiva: Chiusura finale &rarr;</a>
 </nav>

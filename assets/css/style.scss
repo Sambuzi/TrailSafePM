@@ -1,4 +1,4 @@
----
+﻿---
 ---
 
 @import "{{ site.theme }}";
@@ -136,6 +136,17 @@ body {
   background: linear-gradient(135deg, var(--trail-green), var(--trail-blue));
   border-radius: 8px;
   box-shadow: 0 8px 18px rgba(29, 95, 143, 0.18);
+}
+
+.next-page a:first-child:last-child {
+  margin-left: auto;
+}
+
+.next-page .previous-page {
+  color: var(--trail-green-dark);
+  background: #ffffff;
+  border: 1px solid var(--trail-border);
+  box-shadow: 0 8px 18px rgba(20, 82, 54, 0.08);
 }
 
 .next-page a:hover {

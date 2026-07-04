@@ -108,5 +108,6 @@ Le situazioni critiche dovranno essere comunicate al committente senza attendere
 ---
 
 <nav class="next-page">
+  <a class="previous-page" href="03_Organizzazione_e_RACI_TrailSafe.html">&larr; Pagina precedente: Organizzazione e RACI</a>
   <a href="06_Piano_di_Gestione_TrailSafe.html">Pagina successiva: Piano di gestione &rarr;</a>
 </nav>

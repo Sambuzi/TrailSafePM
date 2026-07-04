@@ -152,5 +152,6 @@ Eventuali richieste che modificano funzionalità, tempi o costi non verranno ins
 ---
 
 <nav class="next-page">
+  <a class="previous-page" href="../01_Initiating/04_Obiettivi_Vincoli_Criteri_Successo.html">&larr; Pagina precedente: Obiettivi, vincoli e criteri di successo</a>
   <a href="02_PBS_e_WBS_TrailSafe.html">Pagina successiva: PBS e WBS &rarr;</a>
 </nav>

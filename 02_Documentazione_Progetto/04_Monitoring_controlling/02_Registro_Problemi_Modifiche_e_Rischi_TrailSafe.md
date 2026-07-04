@@ -87,5 +87,6 @@ Le modifiche approvate o i problemi con impatto medio/alto dovranno essere ripre
 ---
 
 <nav class="next-page">
+  <a class="previous-page" href="01_Report_Avanzamento_e_KPI_TrailSafe.html">&larr; Pagina precedente: Report avanzamento e KPI</a>
   <a href="../05_Closing/01_Accettazione_e_Chiusura_TrailSafe.html">Pagina successiva: Accettazione e chiusura &rarr;</a>
 </nav>

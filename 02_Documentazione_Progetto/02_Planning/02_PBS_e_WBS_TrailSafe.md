@@ -171,5 +171,6 @@ Questi work package saranno usati come base per assegnare responsabilità, stima
 ---
 
 <nav class="next-page">
+  <a class="previous-page" href="01_Scope_e_Requisiti_TrailSafe.html">&larr; Pagina precedente: Scope e requisiti</a>
   <a href="03_Organizzazione_e_RACI_TrailSafe.html">Pagina successiva: Organizzazione e RACI &rarr;</a>
 </nav>
