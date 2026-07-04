@@ -111,5 +111,5 @@ La valutazione complessiva è quindi positiva, con una raccomandazione: monitora
 ---
 
 <nav class="next-page">
-  <a href="02_Registro_Problemi_Modifiche_e_Rischi_TrailSafe.md">Pagina successiva: Registro problemi, modifiche e rischi &rarr;</a>
+  <a href="02_Registro_Problemi_Modifiche_e_Rischi_TrailSafe.html">Pagina successiva: Registro problemi, modifiche e rischi &rarr;</a>
 </nav>

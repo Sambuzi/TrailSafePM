@@ -91,5 +91,5 @@ Le decisioni rilevanti e le modifiche approvate dovranno essere riportate nei do
 ---
 
 <nav class="next-page">
-  <a href="05_Analisi_dei_Rischi_TrailSafe.md">Pagina successiva: Analisi dei rischi &rarr;</a>
+  <a href="05_Analisi_dei_Rischi_TrailSafe.html">Pagina successiva: Analisi dei rischi &rarr;</a>
 </nav>

@@ -152,5 +152,5 @@ Eventuali richieste che modificano funzionalità, tempi o costi non verranno ins
 ---
 
 <nav class="next-page">
-  <a href="02_PBS_e_WBS_TrailSafe.md">Pagina successiva: PBS e WBS &rarr;</a>
+  <a href="02_PBS_e_WBS_TrailSafe.html">Pagina successiva: PBS e WBS &rarr;</a>
 </nav>

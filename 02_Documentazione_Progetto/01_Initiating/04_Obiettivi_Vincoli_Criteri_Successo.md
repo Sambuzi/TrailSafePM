@@ -52,5 +52,5 @@
 ---
 
 <nav class="next-page">
-  <a href="../02_Planning/01_Scope_e_Requisiti_TrailSafe.md">Pagina successiva: Scope e requisiti &rarr;</a>
+  <a href="../02_Planning/01_Scope_e_Requisiti_TrailSafe.html">Pagina successiva: Scope e requisiti &rarr;</a>
 </nav>

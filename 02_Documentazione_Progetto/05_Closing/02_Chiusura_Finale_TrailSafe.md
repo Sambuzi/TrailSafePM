@@ -133,5 +133,5 @@ La chiusura del progetto conferma quindi il completamento del perimetro concorda
 ---
 
 <nav class="next-page">
-  <a href="../../index.md">Torna all'indice &rarr;</a>
+  <a href="../../index.html">Torna all'indice &rarr;</a>
 </nav>

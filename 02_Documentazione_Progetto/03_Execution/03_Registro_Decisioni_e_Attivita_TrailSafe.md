@@ -86,5 +86,5 @@ Le decisioni che incidono su requisiti, scope, budget o rilascio dovranno essere
 ---
 
 <nav class="next-page">
-  <a href="../04_Monitoring_controlling/01_Report_Avanzamento_e_KPI_TrailSafe.md">Pagina successiva: Report avanzamento e KPI &rarr;</a>
+  <a href="../04_Monitoring_controlling/01_Report_Avanzamento_e_KPI_TrailSafe.html">Pagina successiva: Report avanzamento e KPI &rarr;</a>
 </nav>

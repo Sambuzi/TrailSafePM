@@ -186,5 +186,5 @@ Ogni approvazione dovrà essere tracciata con una breve nota, un verbale o un ag
 ---
 
 <nav class="next-page">
-  <a href="../03_Execution/01_Backlog_e_Piano_Iterazioni_TrailSafe.md">Pagina successiva: Backlog e piano iterazioni &rarr;</a>
+  <a href="../03_Execution/01_Backlog_e_Piano_Iterazioni_TrailSafe.html">Pagina successiva: Backlog e piano iterazioni &rarr;</a>
 </nav>

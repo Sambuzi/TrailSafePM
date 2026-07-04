@@ -91,5 +91,5 @@ Il registro sarà aggiornato quando:
 ---
 
 <nav class="next-page">
-  <a href="04_Obiettivi_Vincoli_Criteri_Successo.md">Pagina successiva: Obiettivi, vincoli e criteri di successo &rarr;</a>
+  <a href="04_Obiettivi_Vincoli_Criteri_Successo.html">Pagina successiva: Obiettivi, vincoli e criteri di successo &rarr;</a>
 </nav>

@@ -204,5 +204,5 @@ L'approvazione del presente Project Charter autorizza l'avvio formale del proget
 ---
 
 <nav class="next-page">
-  <a href="02_Business_Case_TrailSafe.md">Pagina successiva: Business Case &rarr;</a>
+  <a href="02_Business_Case_TrailSafe.html">Pagina successiva: Business Case &rarr;</a>
 </nav>

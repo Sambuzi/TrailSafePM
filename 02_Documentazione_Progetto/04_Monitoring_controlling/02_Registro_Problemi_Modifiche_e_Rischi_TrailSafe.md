@@ -87,5 +87,5 @@ Le modifiche approvate o i problemi con impatto medio/alto dovranno essere ripre
 ---
 
 <nav class="next-page">
-  <a href="../05_Closing/01_Accettazione_e_Chiusura_TrailSafe.md">Pagina successiva: Accettazione e chiusura &rarr;</a>
+  <a href="../05_Closing/01_Accettazione_e_Chiusura_TrailSafe.html">Pagina successiva: Accettazione e chiusura &rarr;</a>
 </nav>

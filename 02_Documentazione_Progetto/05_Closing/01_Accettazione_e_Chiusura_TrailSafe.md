@@ -106,5 +106,5 @@ La firma del documento conferma l'accettazione della versione pilota e la chiusu
 ---
 
 <nav class="next-page">
-  <a href="02_Chiusura_Finale_TrailSafe.md">Pagina successiva: Chiusura finale &rarr;</a>
+  <a href="02_Chiusura_Finale_TrailSafe.html">Pagina successiva: Chiusura finale &rarr;</a>
 </nav>

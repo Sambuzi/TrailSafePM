@@ -188,5 +188,5 @@ Le attività assegnate durante le riunioni saranno considerate aperte fino a con
 ---
 
 <nav class="next-page">
-  <a href="03_Registro_Decisioni_e_Attivita_TrailSafe.md">Pagina successiva: Registro decisioni e attivita &rarr;</a>
+  <a href="03_Registro_Decisioni_e_Attivita_TrailSafe.html">Pagina successiva: Registro decisioni e attivita &rarr;</a>
 </nav>
