@@ -15,7 +15,7 @@ Il progetto documenta l'intero ciclo di vita: avvio, pianificazione, esecuzione,
   </div>
   <div class="trail-card">
     <strong>Approccio</strong>
-    <p>Gestione ibrida: pianificazione tradizionale e iterazioni Agile per l'MVP.</p>
+    <p> Tramite una gestione ibrida: pianificazione tradizionale e iterazioni Agile per l'MVP pilota del progetto.</p>
   </div>
   <div class="trail-card">
     <strong>Risultato</strong>
