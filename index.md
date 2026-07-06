@@ -15,7 +15,7 @@ Il progetto documenta l'intero ciclo di vita: avvio, pianificazione, esecuzione,
   </div>
   <div class="trail-card">
     <strong>Approccio</strong>
-    <p>Gestione ibrida: pianificazione tradizionale e iterazioni Agile per l'MVP.</p>
+    <p> Tramite una gestione ibrida: pianificazione tradizionale e iterazioni Agile per l'MVP pilota del progetto.</p>
   </div>
   <div class="trail-card">
     <strong>Risultato</strong>
@@ -61,7 +61,7 @@ Il progetto documenta l'intero ciclo di vita: avvio, pianificazione, esecuzione,
 - [Accettazione e chiusura](02_Documentazione_Progetto/05_Closing/01_Accettazione_e_Chiusura_TrailSafe.md)
 - [Chiusura finale](02_Documentazione_Progetto/05_Closing/02_Chiusura_Finale_TrailSafe.md)
 
-## Asset visuali
+## Immagini
 
 - [Schema MVP TrailSafe](02_Documentazione_Progetto/00_Assets/Immagini/01_schema_mvp_trailsafe.svg)
 - [Roadmap iterazioni](02_Documentazione_Progetto/00_Assets/Immagini/02_roadmap_iterazioni.svg)
