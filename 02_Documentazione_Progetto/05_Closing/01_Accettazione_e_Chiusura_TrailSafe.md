@@ -11,7 +11,9 @@ La verifica finale riguarda l'MVP concordato: piattaforma web per area pilota, c
 | Progetto | TrailSafe |
 | Data di chiusura prevista | 29/01/2027 |
 | Committente | Ente Parco territoriale |
-| Project Manager | [Nome e cognome] |
+| Sponsor | Dott.ssa Laura Monti |
+| Referente committente | Ing. Marco Rinaldi |
+| Project Manager | Sajmir Buzi |
 | Risultato finale | MVP per area pilota |
 
 ---
@@ -100,8 +102,9 @@ La firma del documento conferma l'accettazione della versione pilota e la chiusu
 
 | Ruolo | Nome | Firma | Data |
 |---|---|---|---|
-| Sponsor / Committente | Da definire |  |  |
-| Project Manager | [Nome e cognome] |  |  |
+| Sponsor | Dott.ssa Laura Monti | Laura Monti | 29/01/2027 |
+| Committente | Ing. Marco Rinaldi | Marco Rinaldi | 29/01/2027 |
+| Project Manager | Sajmir Buzi | Sajmir Buzi | 29/01/2027 |
 
 ---
 

@@ -8,7 +8,7 @@
 | **Titolo completo** | TrailSafe – Piattaforma web per la sicurezza sui sentieri escursionistici |
 | **Tipologia** | Progetto di sviluppo software |
 | **Committente** | Ente territoriale / Ente Parco (scenario simulato) |
-| **Project Manager** | [Nome e cognome] |
+| **Project Manager** | Sajmir Buzi |
 | **Data di avvio prevista** | 07/09/2026 |
 | **Durata prevista** | Circa 5 mesi |
 | **Versione del documento** | 1.0 |
@@ -198,8 +198,9 @@ L'approvazione del presente Project Charter autorizza l'avvio formale del proget
 
 | Ruolo | Nome | Firma | Data |
 |---|---|---|---|
-| Committente / Sponsor | Da definire |  |  |
-| Project Manager | [Nome e cognome] |  |  |
+| Sponsor | Dott.ssa Laura Monti | Laura Monti | 07/09/2026 |
+| Committente | Ing. Marco Rinaldi | Marco Rinaldi | 07/09/2026 |
+| Project Manager | Sajmir Buzi | Sajmir Buzi | 07/09/2026 |
 
 ---
 

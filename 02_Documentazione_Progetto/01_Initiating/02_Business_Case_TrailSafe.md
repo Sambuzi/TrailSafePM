@@ -178,8 +178,9 @@ L'approvazione del Business Case consente di passare alla definizione più detta
 
 | Ruolo | Nome | Firma | Data |
 |---|---|---|---|
-| Sponsor / Committente | Da definire |  |  |
-| Project Manager | [Nome e cognome] |  |  |
+| Sponsor | Dott.ssa Laura Monti | Laura Monti | 04/09/2026 |
+| Committente | Ing. Marco Rinaldi | Marco Rinaldi | 04/09/2026 |
+| Project Manager | Sajmir Buzi | Sajmir Buzi | 04/09/2026 |
 
 ---
 

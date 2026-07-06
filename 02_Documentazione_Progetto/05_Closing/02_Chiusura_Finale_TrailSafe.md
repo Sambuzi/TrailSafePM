@@ -110,6 +110,14 @@ Il team condivide le principali difficoltà incontrate, in particolare integrazi
 - la documentazione viene archiviata nella cartella di progetto;
 - un'eventuale estensione richiederà una nuova approvazione e una nuova pianificazione.
 
+### Firme di chiusura
+
+| Ruolo | Nome | Firma | Data |
+|---|---|---|---|
+| Sponsor | Dott.ssa Laura Monti | Laura Monti | 29/01/2027 |
+| Committente | Ing. Marco Rinaldi | Marco Rinaldi | 29/01/2027 |
+| Project Manager | Sajmir Buzi | Sajmir Buzi | 29/01/2027 |
+
 ### Attività finali
 
 | Attività | Responsabile | Stato |
