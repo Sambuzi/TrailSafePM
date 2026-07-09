@@ -4,11 +4,11 @@
 
 | ID | Obiettivo | Misurabilita | Scadenza |
 | - | - | - | - |
-| O1 | Rilasciare un MVP web di TrailSafe | Piattaforma accessibile da browser e approvata dal committente | 31/08/2026 |
-| O2 | Digitalizzare le informazioni essenziali sui sentieri dell'area pilota | Almeno 20 sentieri inseriti con dati principali | 20/07/2026 |
-| O3 | Consentire agli utenti di inviare segnalazioni | Modulo segnalazione funzionante e collegato al pannello amministrativo | 20/07/2026 |
-| O4 | Abilitare la gestione amministrativa | Area riservata per sentieri, stati, avvisi e segnalazioni | 20/07/2026 |
-| O5 | Migliorare la comunicazione di avvisi e stati percorso | Stato percorso e avvisi visibili nelle schede sentiero | 20/07/2026 |
+| O1 | Rilasciare un MVP web di TrailSafe | Piattaforma accessibile da browser e approvata dal committente | 29/01/2027 |
+| O2 | Digitalizzare le informazioni essenziali sui sentieri dell'area pilota | Almeno 20 sentieri inseriti con dati principali | 27/11/2026 |
+| O3 | Consentire agli utenti di inviare segnalazioni | Modulo segnalazione funzionante e collegato al pannello amministrativo | 30/11/2026 |
+| O4 | Abilitare la gestione amministrativa | Area riservata per sentieri, stati, avvisi e segnalazioni | 22/01/2027 |
+| O5 | Migliorare la comunicazione di avvisi e stati percorso | Stato percorso e avvisi visibili nelle schede sentiero | 22/01/2027 |
 
 ## Vincoli
 
@@ -32,7 +32,7 @@
 
 | ID | Criterio | Valore atteso |
 | - | - | - |
-| CS1 | Rispetto tempi | Chiusura progetto entro il 31/08/2026 |
+| CS1 | Rispetto tempi | Chiusura progetto entro il 29/01/2027 |
 | CS2 | Rispetto budget | Costo complessivo non superiore a 75.000 euro |
 | CS3 | Copertura contenuti | Almeno 20 sentieri disponibili nell'MVP |
 | CS4 | Funzionalita utente | Consultazione mappa, schede sentiero, stati e avvisi |
